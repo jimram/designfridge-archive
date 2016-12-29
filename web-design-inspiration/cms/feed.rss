@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; cms</title>
+	<atom:link href="/web-design-inspiration/cms/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Sushi Works</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/sushi-works</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/sushi-works#comments</comments>
+		<pubDate>Wed, 14 Sep 2011 07:54:46 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[green]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=36736</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/sushi-works/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fork CMS</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/fork-cms</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/fork-cms#comments</comments>
+		<pubDate>Thu, 08 Sep 2011 08:08:46 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[cms]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=36482</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/fork-cms/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PressWork</title>
+		<link>http://www.designfridge.co.uk/uncategorized/presswork</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/presswork#comments</comments>
+		<pubDate>Tue, 09 Aug 2011 08:07:48 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[grey]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=35304</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/presswork/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Whiteloupe</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/whiteloupe</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/whiteloupe#comments</comments>
+		<pubDate>Tue, 05 Jul 2011 08:23:33 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[cms]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=33478</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/whiteloupe/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>io engine</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/io-engine</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/io-engine#comments</comments>
+		<pubDate>Wed, 18 May 2011 07:59:50 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=31246</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/io-engine/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>EE harbor</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/ee-harbor</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/ee-harbor#comments</comments>
+		<pubDate>Fri, 15 Apr 2011 08:02:54 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[3col]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=29721</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/ee-harbor/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Easy Peasee</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/easy-peasee</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/easy-peasee#comments</comments>
+		<pubDate>Fri, 12 Nov 2010 09:11:45 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[green]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=22521</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/easy-peasee/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Moto CMS</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/moto-cms</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/moto-cms#comments</comments>
+		<pubDate>Fri, 01 Oct 2010 21:02:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[glossy]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=20719</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/moto-cms/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wizard Themes</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/wizard-themes</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/wizard-themes#comments</comments>
+		<pubDate>Wed, 01 Sep 2010 07:49:24 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[ecom]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/clean/wizard-themes</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/wizard-themes/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Deploy CMS</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/deploy-cms</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/deploy-cms#comments</comments>
+		<pubDate>Thu, 26 Aug 2010 08:54:34 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[brown]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[fabric]]></category>
+		<category><![CDATA[pink]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/textured/deploy-cms</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/deploy-cms/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Themify</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/themify</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/themify#comments</comments>
+		<pubDate>Wed, 18 Aug 2010 08:15:19 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=18902</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p><a href="http://themify.me/"><br />
+</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/themify/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Comodo Programs Manager</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/comodo-programs-manager</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/comodo-programs-manager#comments</comments>
+		<pubDate>Tue, 27 Jul 2010 07:34:41 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=17929</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/comodo-programs-manager/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

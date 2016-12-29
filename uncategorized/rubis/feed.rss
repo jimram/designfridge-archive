@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Rubis</title>
+	<atom:link href="/uncategorized/rubis/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/uncategorized/rubis</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: AIS Novations</title>
+		<link>http://www.designfridge.co.uk/uncategorized/rubis#comment-52585</link>
+		<dc:creator>AIS Novations</dc:creator>
+		<pubDate>Sat, 29 Jun 2013 08:50:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=59764#comment-52585</guid>
+		<description>Nice, but not brilliant at all..</description>
+		<content:encoded><![CDATA[<p>Nice, but not brilliant at all..</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

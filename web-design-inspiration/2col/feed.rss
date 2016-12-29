@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; 2col</title>
+	<atom:link href="/web-design-inspiration/2col/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Clash of the Boroughs</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/clash-of-the-boroughs</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/clash-of-the-boroughs#comments</comments>
+		<pubDate>Tue, 19 Feb 2013 08:04:55 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[sport]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55016</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/clash-of-the-boroughs/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Everest</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/everest</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/everest#comments</comments>
+		<pubDate>Thu, 22 Nov 2012 09:10:47 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51620</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/everest/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>ALXANDR</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/alxandr</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/alxandr#comments</comments>
+		<pubDate>Mon, 05 Nov 2012 09:12:07 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50887</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/alxandr/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Next Web</title>
+		<link>http://www.designfridge.co.uk/uncategorized/the-next-web</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/the-next-web#comments</comments>
+		<pubDate>Thu, 01 Nov 2012 09:15:37 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[orange]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50737</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/the-next-web/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Oykun Yilmaz</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/oykun-yilmaz</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/oykun-yilmaz#comments</comments>
+		<pubDate>Wed, 31 Oct 2012 09:07:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50609</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/oykun-yilmaz/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Space Box</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/space-box</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/space-box#comments</comments>
+		<pubDate>Mon, 29 Oct 2012 09:02:14 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50556</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/space-box/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Etch</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/etch</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/etch#comments</comments>
+		<pubDate>Fri, 27 Jul 2012 08:40:22 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[studio]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47170</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/etch/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Queen City Merge</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/queen-city-merge</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/queen-city-merge#comments</comments>
+		<pubDate>Mon, 23 Apr 2012 08:16:38 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[brown]]></category>
+		<category><![CDATA[pink]]></category>
+		<category><![CDATA[wood]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44596</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/queen-city-merge/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Foto Bout</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/foto-bout</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/foto-bout#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 08:29:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[orange]]></category>
+		<category><![CDATA[photography]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=43837</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/foto-bout/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blind Pig Design</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/blind-pig-design</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/blind-pig-design#comments</comments>
+		<pubDate>Thu, 22 Mar 2012 09:27:19 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=43664</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/blind-pig-design/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MmDesign</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/httpwww-meandmyselfportfolio-co-uk</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/httpwww-meandmyselfportfolio-co-uk#comments</comments>
+		<pubDate>Fri, 17 Feb 2012 09:42:58 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=42444</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/httpwww-meandmyselfportfolio-co-uk/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reveal</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/reveal</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/reveal#comments</comments>
+		<pubDate>Thu, 05 Jan 2012 08:58:15 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[2col]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=40593</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/reveal/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

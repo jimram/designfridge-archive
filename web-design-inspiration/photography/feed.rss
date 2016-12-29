@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; photography</title>
+	<atom:link href="/web-design-inspiration/photography/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Photomap</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/photomap</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/photomap#comments</comments>
+		<pubDate>Mon, 17 Mar 2014 11:10:27 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67704</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/photomap/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Obaby</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/obaby-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/obaby-2#comments</comments>
+		<pubDate>Fri, 10 Jan 2014 14:17:47 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[photography]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65451</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/obaby-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rod McLean</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/rod-mclean</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/rod-mclean#comments</comments>
+		<pubDate>Wed, 08 Jan 2014 11:23:17 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65360</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/rod-mclean/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Love Carmen Rose</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/love-carmen-rose</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/love-carmen-rose#comments</comments>
+		<pubDate>Mon, 06 Jan 2014 12:33:13 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65317</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/love-carmen-rose/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Our Time</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/our-time</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/our-time#comments</comments>
+		<pubDate>Tue, 17 Dec 2013 11:21:23 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[photography]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64965</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/our-time/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Killing Kennedy</title>
+		<link>http://www.designfridge.co.uk/inspiration/realism/killing-kennedy</link>
+		<comments>http://www.designfridge.co.uk/inspiration/realism/killing-kennedy#comments</comments>
+		<pubDate>Thu, 21 Nov 2013 09:58:09 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Realism]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[photography]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64214</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/realism/killing-kennedy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MIJLO: Essentials</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/mijlo-essentials</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/mijlo-essentials#comments</comments>
+		<pubDate>Mon, 18 Nov 2013 16:57:35 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Knolling]]></category>
+		<category><![CDATA[photography]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64113</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/mijlo-essentials/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Poolhouse</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/poolhouse</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/poolhouse#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 10:53:17 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63973</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/poolhouse/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>15 Days in Japan</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/15-days-in-japan</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/15-days-in-japan#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 10:52:50 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[reportage]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63971</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/15-days-in-japan/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Doubleday &amp; Cartwright</title>
+		<link>http://www.designfridge.co.uk/uncategorized/doubleday-cartwright</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/doubleday-cartwright#comments</comments>
+		<pubDate>Fri, 01 Nov 2013 10:33:40 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[studio]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63636</guid>
+		<description><![CDATA[Doubleday &#38; Cartwright.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://doubledayandcartwright.com/">Doubleday &amp; Cartwright</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/doubleday-cartwright/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lumo</title>
+		<link>http://www.designfridge.co.uk/uncategorized/lumo</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/lumo#comments</comments>
+		<pubDate>Wed, 15 May 2013 09:32:40 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58266</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/lumo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Richard Photo Lab</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/richard-photo-lab</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/richard-photo-lab#comments</comments>
+		<pubDate>Thu, 11 Apr 2013 07:02:03 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57063</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/richard-photo-lab/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

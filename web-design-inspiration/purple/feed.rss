@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; purple</title>
+	<atom:link href="/web-design-inspiration/purple/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Trask Industries</title>
+		<link>http://www.designfridge.co.uk/uncategorized/trask-industries</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/trask-industries#comments</comments>
+		<pubDate>Thu, 05 Sep 2013 11:11:33 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=60753</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/trask-industries/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hopskoch</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/hopskoch</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/hopskoch#comments</comments>
+		<pubDate>Tue, 28 May 2013 08:45:45 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58805</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/hopskoch/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Strikingly</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/strikingly</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/strikingly#comments</comments>
+		<pubDate>Mon, 13 May 2013 09:42:33 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58328</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/strikingly/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Format Festival</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/format-festival</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/format-festival#comments</comments>
+		<pubDate>Fri, 05 Apr 2013 07:59:56 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[purple]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56659</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/format-festival/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Artifact conf</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/artifact-conf</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/artifact-conf#comments</comments>
+		<pubDate>Thu, 21 Mar 2013 08:02:59 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[purple]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56164</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/artifact-conf/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>NeonMob</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/neonmob-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/neonmob-2#comments</comments>
+		<pubDate>Fri, 25 Jan 2013 09:47:42 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=54029</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/neonmob-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jukely</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/jukely</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/jukely#comments</comments>
+		<pubDate>Fri, 30 Nov 2012 09:42:34 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51949</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/jukely/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>NeonMob</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/neonmob</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/neonmob#comments</comments>
+		<pubDate>Thu, 28 Jun 2012 09:01:08 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[purple]]></category>
+		<category><![CDATA[social]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46452</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/neonmob/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Oliver Lisher</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/oliver-lisher</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/oliver-lisher#comments</comments>
+		<pubDate>Tue, 26 Jun 2012 08:44:57 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46289</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/oliver-lisher/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Panelfly</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/panelfly</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/panelfly#comments</comments>
+		<pubDate>Tue, 26 Jun 2012 08:34:28 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46348</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/panelfly/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Geek Product</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/geek-product-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/geek-product-2#comments</comments>
+		<pubDate>Fri, 22 Jun 2012 08:52:09 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[3col]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46274</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/geek-product-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fontain</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/fontain</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/fontain#comments</comments>
+		<pubDate>Thu, 07 Jun 2012 08:15:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45898</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/fontain/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

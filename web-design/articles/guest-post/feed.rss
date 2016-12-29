@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; Guest Post</title>
+	<atom:link href="/web-design/articles/guest-post/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Improve UX with Microcopy</title>
+		<link>http://www.designfridge.co.uk/articles/guest-post/improve-ux-with-microcopy</link>
+		<comments>http://www.designfridge.co.uk/articles/guest-post/improve-ux-with-microcopy#comments</comments>
+		<pubDate>Fri, 27 Aug 2010 09:52:28 +0000</pubDate>
+		<dc:creator>Andy Shield</dc:creator>
+				<category><![CDATA[Guest Post]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=18841</guid>
+		<description><![CDATA[<p>So what is microcopy and why should you bother reading any of this?
+Well, I like to think of microcopy as those little phrases that help to allay any fear or confusion.
+We encounter microcopy each and every day without even realising it. It’s a “Pull” sign on a door, it’s a box that says “this way up”.
+Online, microcopy can be that little piece of UX</p>]]></description>
+			<content:encoded><![CDATA[<p>So what is microcopy and why should you bother reading any of this?
+Well, I like to think of microcopy as those little phrases that help to allay any fear or confusion.
+We encounter microcopy each and every day without even realising it. It’s a “Pull” sign on a door, it’s a box that says “this way up”.
+Online, microcopy can be that little piece of UX</p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/articles/guest-post/improve-ux-with-microcopy/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

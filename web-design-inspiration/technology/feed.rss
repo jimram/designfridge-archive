@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; technology</title>
+	<atom:link href="/web-design-inspiration/technology/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Nextr</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/nextr</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/nextr#comments</comments>
+		<pubDate>Wed, 22 May 2013 08:55:35 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58613</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/nextr/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cintiq 13HD</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/cintiq-13hd</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/cintiq-13hd#comments</comments>
+		<pubDate>Wed, 20 Mar 2013 20:01:45 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56152</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/cintiq-13hd/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MYO</title>
+		<link>http://www.designfridge.co.uk/uncategorized/myo</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/myo#comments</comments>
+		<pubDate>Wed, 06 Mar 2013 09:30:43 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55517</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/myo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Olly</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/olly</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/olly#comments</comments>
+		<pubDate>Tue, 20 Nov 2012 08:02:02 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51470</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/olly/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Field</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/field-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/field-2#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 09:47:09 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51056</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/field-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>B&amp;O Play</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/bo-play</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/bo-play#comments</comments>
+		<pubDate>Wed, 25 Jan 2012 09:25:05 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=41542</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/bo-play/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sony</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/sony</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/sony#comments</comments>
+		<pubDate>Wed, 04 Jan 2012 09:01:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=40698</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/sony/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>C Spire</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/c-spire</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/c-spire#comments</comments>
+		<pubDate>Mon, 19 Dec 2011 08:47:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=40276</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/c-spire/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nest</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/nest</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/nest#comments</comments>
+		<pubDate>Wed, 26 Oct 2011 07:30:04 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=38291</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/nest/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sony Tablet</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/sony-tablet</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/sony-tablet#comments</comments>
+		<pubDate>Tue, 06 Sep 2011 07:59:50 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=36378</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/sony-tablet/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Google Developer Day 2011</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/google-developer-day-2011</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/google-developer-day-2011#comments</comments>
+		<pubDate>Thu, 04 Aug 2011 08:07:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=34982</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/google-developer-day-2011/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Intense Engineering</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/intense-engineering</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/intense-engineering#comments</comments>
+		<pubDate>Tue, 30 Nov 2010 08:35:24 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=23291</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/intense-engineering/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

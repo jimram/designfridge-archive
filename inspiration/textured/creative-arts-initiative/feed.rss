@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Creative Arts Initiative</title>
+	<atom:link href="/inspiration/textured/creative-arts-initiative/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/textured/creative-arts-initiative</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Jim Ramsden</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/creative-arts-initiative#comment-1376</link>
+		<dc:creator>Jim Ramsden</dc:creator>
+		<pubDate>Thu, 22 Jul 2010 00:30:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/textured/creative-arts-initiative#comment-1376</guid>
+		<description>@owen My thoughts exactly. Looks great though, and still a great source of inspiration, regardless of the silly way it&#039;s been built.</description>
+		<content:encoded><![CDATA[<p>@owen My thoughts exactly. Looks great though, and still a great source of inspiration, regardless of the silly way it&#8217;s been built.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Owen</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/creative-arts-initiative#comment-1375</link>
+		<dc:creator>Owen</dc:creator>
+		<pubDate>Wed, 21 Jul 2010 20:49:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/textured/creative-arts-initiative#comment-1375</guid>
+		<description>Don&#039;t really see why they needed to build this all in Flash... could have just as easily been built on Wordpress - and a lot more accessible at that.</description>
+		<content:encoded><![CDATA[<p>Don&#8217;t really see why they needed to build this all in Flash&#8230; could have just as easily been built on WordPress &#8211; and a lot more accessible at that.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

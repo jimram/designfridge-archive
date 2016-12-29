@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; gallery</title>
+	<atom:link href="/web-design-inspiration/gallery/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Niice.</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/niice</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/niice#comments</comments>
+		<pubDate>Thu, 13 Feb 2014 11:49:37 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[gallery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66734</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/niice/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AIGA &#124; 100 Years of Design</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/aiga-100-years-of-design</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/aiga-100-years-of-design#comments</comments>
+		<pubDate>Wed, 29 Jan 2014 11:18:49 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[gallery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66244</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/aiga-100-years-of-design/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Comic Sans Criminal</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/comic-sans-criminal-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/comic-sans-criminal-2#comments</comments>
+		<pubDate>Fri, 24 Jan 2014 10:44:17 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[typography]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66064</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/comic-sans-criminal-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kataomoi3</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/kataomoi3</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/kataomoi3#comments</comments>
+		<pubDate>Tue, 19 Nov 2013 11:16:16 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[non-latin]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64122</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/kataomoi3/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Desktime</title>
+		<link>http://www.designfridge.co.uk/uncategorized/desktime-2</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/desktime-2#comments</comments>
+		<pubDate>Mon, 29 Apr 2013 08:39:53 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[venue]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57625</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/desktime-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Windows of New York</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/windows-of-new-york</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/windows-of-new-york#comments</comments>
+		<pubDate>Tue, 19 Feb 2013 08:03:12 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[1col]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55011</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/windows-of-new-york/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Incredible Types</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/incredible-types</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/incredible-types#comments</comments>
+		<pubDate>Mon, 14 Jan 2013 09:39:57 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=53476</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/incredible-types/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Loft Resumes</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/loft-resumes</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/loft-resumes#comments</comments>
+		<pubDate>Wed, 23 May 2012 08:53:15 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[3col]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45435</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/loft-resumes/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Crayons to Concept</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/crayons-to-concept</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/crayons-to-concept#comments</comments>
+		<pubDate>Tue, 22 May 2012 08:24:52 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45379</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/crayons-to-concept/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Keep Exploring Canada</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/keep-exploring-canada</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/keep-exploring-canada#comments</comments>
+		<pubDate>Wed, 16 May 2012 08:22:19 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45224</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/keep-exploring-canada/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ten Dollar Fonts</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/ten-dollar-fonts</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/ten-dollar-fonts#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 09:09:30 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44672</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/ten-dollar-fonts/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nicolas Tarier Photography</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/nicolas-tarier-photography</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/nicolas-tarier-photography#comments</comments>
+		<pubDate>Fri, 20 Apr 2012 05:25:48 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44437</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/nicolas-tarier-photography/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

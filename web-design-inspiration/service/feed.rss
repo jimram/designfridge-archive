@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; service</title>
+	<atom:link href="/web-design-inspiration/service/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Mail Chimp goes with you.</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/mail-chimp-goes-with-you</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/mail-chimp-goes-with-you#comments</comments>
+		<pubDate>Wed, 22 Jan 2014 11:31:56 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[product]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65976</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/mail-chimp-goes-with-you/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>kimono</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/kimono</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/kimono#comments</comments>
+		<pubDate>Thu, 16 Jan 2014 10:53:51 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65758</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/kimono/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pace Law</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/pace-law</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/pace-law#comments</comments>
+		<pubDate>Tue, 07 Jan 2014 15:39:36 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65332</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/pace-law/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Munchery</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/munchery</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/munchery#comments</comments>
+		<pubDate>Mon, 16 Dec 2013 11:31:20 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64919</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/munchery/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SquareOne Mail</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/squareone-mail</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/squareone-mail#comments</comments>
+		<pubDate>Thu, 12 Dec 2013 10:28:47 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64824</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/squareone-mail/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Echo</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/echo</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/echo#comments</comments>
+		<pubDate>Wed, 11 Dec 2013 12:35:20 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64776</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/echo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ins &amp; Outs</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/ins-outs</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/ins-outs#comments</comments>
+		<pubDate>Wed, 11 Dec 2013 12:34:51 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64774</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/ins-outs/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Unroll.me</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/unroll-me</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/unroll-me#comments</comments>
+		<pubDate>Wed, 04 Dec 2013 10:49:05 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64584</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/unroll-me/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Updatey</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/updatey</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/updatey#comments</comments>
+		<pubDate>Wed, 27 Nov 2013 10:23:26 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64408</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/updatey/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Glifo</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/glifo-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/glifo-2#comments</comments>
+		<pubDate>Fri, 22 Nov 2013 16:08:42 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[product]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64261</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/glifo-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Forge</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/forge</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/forge#comments</comments>
+		<pubDate>Tue, 19 Nov 2013 11:16:24 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64126</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/forge/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Canva</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/canva</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/canva#comments</comments>
+		<pubDate>Tue, 19 Nov 2013 11:16:23 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64124</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/canva/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

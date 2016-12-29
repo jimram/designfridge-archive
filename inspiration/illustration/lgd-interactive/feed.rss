@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: LGD Interactive</title>
+	<atom:link href="/inspiration/illustration/lgd-interactive/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/illustration/lgd-interactive</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: caspar mctaggart</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/lgd-interactive#comment-2448</link>
+		<dc:creator>caspar mctaggart</dc:creator>
+		<pubDate>Fri, 15 Jul 2011 14:18:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=33793#comment-2448</guid>
+		<description>Is very sophisticated. Feels professional, yet not overwrought.</description>
+		<content:encoded><![CDATA[<p>Is very sophisticated. Feels professional, yet not overwrought.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

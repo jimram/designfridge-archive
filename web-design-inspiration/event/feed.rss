@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; event</title>
+	<atom:link href="/web-design-inspiration/event/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>F8 Developer Conference</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/f8-developer-conference</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/f8-developer-conference#comments</comments>
+		<pubDate>Tue, 11 Mar 2014 11:22:19 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67484</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/f8-developer-conference/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GRAFICS</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/grafics</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/grafics#comments</comments>
+		<pubDate>Wed, 05 Feb 2014 10:50:31 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[film]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66473</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/grafics/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>OFFF</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/offf</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/offf#comments</comments>
+		<pubDate>Mon, 27 Jan 2014 16:01:50 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[event]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66155</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/offf/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kaipoche</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/kaipoche</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/kaipoche#comments</comments>
+		<pubDate>Wed, 15 Jan 2014 11:14:51 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[scroll]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65710</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/kaipoche/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Queensland Ballet</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/queensland-ballet</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/queensland-ballet#comments</comments>
+		<pubDate>Thu, 12 Dec 2013 10:28:02 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[event]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64818</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/queensland-ballet/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Babel</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/babel</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/babel#comments</comments>
+		<pubDate>Mon, 02 Dec 2013 10:40:19 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64495</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/babel/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kataomoi3</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/kataomoi3</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/kataomoi3#comments</comments>
+		<pubDate>Tue, 19 Nov 2013 11:16:16 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[non-latin]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64122</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/kataomoi3/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>folkelarm</title>
+		<link>http://www.designfridge.co.uk/uncategorized/folkelarm</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/folkelarm#comments</comments>
+		<pubDate>Thu, 14 Nov 2013 10:27:12 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64007</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.folkelarm.no/"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/folkelarm/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Design Co.Mission</title>
+		<link>http://www.designfridge.co.uk/uncategorized/design-co-mission</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/design-co-mission#comments</comments>
+		<pubDate>Wed, 06 Nov 2013 10:48:33 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Flat]]></category>
+		<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Vector]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[orange]]></category>
+		<category><![CDATA[venue]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63738</guid>
+		<description><![CDATA[Design Co.Mission.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://plus63.org/">Design Co.Mission</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/design-co-mission/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Generate</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/generate</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/generate#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 07:00:59 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[event]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=60773</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/generate/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Artem and Julia</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/artem-and-julia</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/artem-and-julia#comments</comments>
+		<pubDate>Wed, 22 May 2013 09:01:52 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58616</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/artem-and-julia/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pedal South</title>
+		<link>http://www.designfridge.co.uk/uncategorized/pedal-south</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/pedal-south#comments</comments>
+		<pubDate>Wed, 15 May 2013 09:31:34 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[event]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57955</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/pedal-south/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

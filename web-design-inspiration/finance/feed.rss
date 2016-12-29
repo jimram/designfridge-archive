@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; finance</title>
+	<atom:link href="/web-design-inspiration/finance/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Debut Plus</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/debut-plus</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/debut-plus#comments</comments>
+		<pubDate>Thu, 13 Mar 2014 11:16:24 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67570</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/debut-plus/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Space Box</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/space-box-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/space-box-2#comments</comments>
+		<pubDate>Wed, 05 Mar 2014 12:13:54 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67300</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/space-box-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PayPal</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/paypal</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/paypal#comments</comments>
+		<pubDate>Fri, 21 Feb 2014 09:24:46 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66993</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/paypal/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spendee</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/spendee-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/spendee-2#comments</comments>
+		<pubDate>Thu, 13 Feb 2014 11:49:29 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66732</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/spendee-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trippeo</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/trippeo</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/trippeo#comments</comments>
+		<pubDate>Tue, 28 Jan 2014 11:59:08 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66200</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/trippeo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Simple</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/simple</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/simple#comments</comments>
+		<pubDate>Mon, 18 Mar 2013 20:02:32 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55890</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/simple/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spendful</title>
+		<link>http://www.designfridge.co.uk/uncategorized/spendful</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/spendful#comments</comments>
+		<pubDate>Fri, 04 Nov 2011 09:10:56 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=38637</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/spendful/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Manilla</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/manilla</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/manilla#comments</comments>
+		<pubDate>Fri, 15 Jul 2011 08:00:27 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=33923</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/manilla/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ready for zero</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/ready-for-zero</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/ready-for-zero#comments</comments>
+		<pubDate>Wed, 09 Feb 2011 09:36:09 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=26219</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/ready-for-zero/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cash Crate</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/cash-crate</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/cash-crate#comments</comments>
+		<pubDate>Tue, 25 Jan 2011 09:57:19 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[wood]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=25513</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/cash-crate/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Best Pass</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/best-pass</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/best-pass#comments</comments>
+		<pubDate>Thu, 18 Nov 2010 08:39:41 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=22730</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/best-pass/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fruggl (pronounced froogl)</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/fruggl-pronounced-froogl</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/fruggl-pronounced-froogl#comments</comments>
+		<pubDate>Wed, 29 Sep 2010 07:58:17 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[brown]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=20400</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/fruggl-pronounced-froogl/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

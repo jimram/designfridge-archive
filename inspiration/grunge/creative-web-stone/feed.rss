@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Creative Web Stone</title>
+	<atom:link href="/inspiration/grunge/creative-web-stone/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/grunge/creative-web-stone</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Creative Web Stone</title>
+		<link>http://www.designfridge.co.uk/inspiration/grunge/creative-web-stone#comment-1662</link>
+		<dc:creator>Creative Web Stone</dc:creator>
+		<pubDate>Sun, 01 Aug 2010 11:07:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=17740#comment-1662</guid>
+		<description>@ravi juneja thx for the comment</description>
+		<content:encoded><![CDATA[<p>@ravi juneja thx for the comment</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ravi Juneja</title>
+		<link>http://www.designfridge.co.uk/inspiration/grunge/creative-web-stone#comment-1374</link>
+		<dc:creator>Ravi Juneja</dc:creator>
+		<pubDate>Wed, 21 Jul 2010 20:26:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=17740#comment-1374</guid>
+		<description>very nice work, like it</description>
+		<content:encoded><![CDATA[<p>very nice work, like it</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

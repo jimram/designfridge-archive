@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; food</title>
+	<atom:link href="/web-design-inspiration/food/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Montere</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/montere</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/montere#comments</comments>
+		<pubDate>Thu, 27 Feb 2014 11:17:21 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[photographic]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67161</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.montere.it/"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/montere/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Plah</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/plah</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/plah#comments</comments>
+		<pubDate>Fri, 14 Feb 2014 08:54:04 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[paralax]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66775</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/plah/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sooshi</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/sooshi</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/sooshi#comments</comments>
+		<pubDate>Tue, 28 Jan 2014 11:58:38 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[food]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66202</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/sooshi/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Curt&#8217;s Special Recipe</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/curts-special-recipe</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/curts-special-recipe#comments</comments>
+		<pubDate>Fri, 10 Jan 2014 10:38:22 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[ecom]]></category>
+		<category><![CDATA[food]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65435</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/curts-special-recipe/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Farmer&#8217;s Market Kitchen</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/farmers-market-kitchen</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/farmers-market-kitchen#comments</comments>
+		<pubDate>Tue, 17 Dec 2013 11:15:48 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[restaurant]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64969</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/farmers-market-kitchen/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Munchery</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/munchery</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/munchery#comments</comments>
+		<pubDate>Mon, 16 Dec 2013 11:31:20 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64919</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/munchery/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Huxtaburger</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/huxtaburger</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/huxtaburger#comments</comments>
+		<pubDate>Fri, 13 Dec 2013 12:58:10 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[restaurant]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64857</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/huxtaburger/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lets Talk Turkey</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/lets-talk-turkey</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/lets-talk-turkey#comments</comments>
+		<pubDate>Mon, 09 Dec 2013 11:26:11 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[food]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64694</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/lets-talk-turkey/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Ordinary</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/the-ordinary-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/the-ordinary-2#comments</comments>
+		<pubDate>Mon, 18 Nov 2013 16:59:27 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[food]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64111</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/the-ordinary-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MadeCo</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/madeco</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/madeco#comments</comments>
+		<pubDate>Fri, 01 Mar 2013 00:16:24 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[food]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55330</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/madeco/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cibo Calgary</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/cibo-calgary</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/cibo-calgary#comments</comments>
+		<pubDate>Tue, 29 Jan 2013 09:43:36 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[restaurant]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=54080</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/cibo-calgary/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>East African Bakery</title>
+		<link>http://www.designfridge.co.uk/inspiration/realism/east-african-bakery</link>
+		<comments>http://www.designfridge.co.uk/inspiration/realism/east-african-bakery#comments</comments>
+		<pubDate>Fri, 25 Jan 2013 09:44:04 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Realism]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[wood]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=54020</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/realism/east-african-bakery/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

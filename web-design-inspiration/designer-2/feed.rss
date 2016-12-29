@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; designer</title>
+	<atom:link href="/web-design-inspiration/designer-2/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Andy Chung</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/andy-chung-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/andy-chung-2#comments</comments>
+		<pubDate>Thu, 20 Mar 2014 11:06:01 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67850</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/andy-chung-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kyle Conrad</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/kyle-conrad</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/kyle-conrad#comments</comments>
+		<pubDate>Fri, 14 Mar 2014 11:05:20 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67614</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/kyle-conrad/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Damien Weighill</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/damien-weighill</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/damien-weighill#comments</comments>
+		<pubDate>Thu, 13 Mar 2014 11:16:13 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67572</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/damien-weighill/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jens Windolf</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/jens-windolf</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/jens-windolf#comments</comments>
+		<pubDate>Wed, 19 Feb 2014 12:42:26 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66920</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/jens-windolf/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Carl-Philippe Brenner</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/carl-philippe-brenner</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/carl-philippe-brenner#comments</comments>
+		<pubDate>Thu, 06 Feb 2014 10:57:11 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66515</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/carl-philippe-brenner/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mike Kus</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/mike-kus-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/mike-kus-2#comments</comments>
+		<pubDate>Thu, 06 Feb 2014 10:56:44 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66517</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/mike-kus-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kalyn Nakano</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/kalyn-nakano</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/kalyn-nakano#comments</comments>
+		<pubDate>Fri, 24 Jan 2014 10:44:23 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[developer]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66066</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/kalyn-nakano/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Adam Hartwig</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/adam-hartwig</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/adam-hartwig#comments</comments>
+		<pubDate>Wed, 22 Jan 2014 14:40:55 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65989</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/adam-hartwig/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bastien Leprince</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/bastien-leprince</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/bastien-leprince#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 10:53:27 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63975</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/bastien-leprince/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

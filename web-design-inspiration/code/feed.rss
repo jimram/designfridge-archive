@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; code</title>
+	<atom:link href="/web-design-inspiration/code/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Barley</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/barley-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/barley-2#comments</comments>
+		<pubDate>Wed, 26 Feb 2014 10:47:56 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[Themes]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67113</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/barley-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PeepCode</title>
+		<link>http://www.designfridge.co.uk/uncategorized/peepcode</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/peepcode#comments</comments>
+		<pubDate>Mon, 11 Mar 2013 10:25:15 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[education]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55699</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/peepcode/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>HashiCorp</title>
+		<link>http://www.designfridge.co.uk/uncategorized/hashicorp</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/hashicorp#comments</comments>
+		<pubDate>Fri, 25 Jan 2013 09:42:07 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=53987</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/hashicorp/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wijmo</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/wijmo</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/wijmo#comments</comments>
+		<pubDate>Tue, 21 Dec 2010 08:39:15 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[grey]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=24127</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/wijmo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Awesome</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/awesome</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/awesome#comments</comments>
+		<pubDate>Tue, 31 Aug 2010 07:33:03 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[code]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/vector/awesome</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/awesome/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MapBox</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/mapbox</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/mapbox#comments</comments>
+		<pubDate>Fri, 09 Jul 2010 08:09:41 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[paper]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/textured/mapbox</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/mapbox/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

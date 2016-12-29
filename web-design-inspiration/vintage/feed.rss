@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; vintage</title>
+	<atom:link href="/web-design-inspiration/vintage/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Jonathan Ploeg</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/jonathan-ploeg</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/jonathan-ploeg#comments</comments>
+		<pubDate>Thu, 02 Jan 2014 12:22:44 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[one page]]></category>
+		<category><![CDATA[vintage]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65234</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/jonathan-ploeg/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Verge 50</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/the-verge-50</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/the-verge-50#comments</comments>
+		<pubDate>Fri, 13 Dec 2013 12:56:33 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[vintage]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64859</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/the-verge-50/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>kommt-amkarlsplatz</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/kommt-amkarlsplatz</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/kommt-amkarlsplatz#comments</comments>
+		<pubDate>Tue, 10 Dec 2013 11:12:05 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[vintage]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64730</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/kommt-amkarlsplatz/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Passage</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/passage</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/passage#comments</comments>
+		<pubDate>Mon, 02 Dec 2013 10:46:33 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[ecom]]></category>
+		<category><![CDATA[vintage]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64491</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/passage/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

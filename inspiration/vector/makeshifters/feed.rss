@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Makeshifters</title>
+	<atom:link href="/inspiration/vector/makeshifters/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/vector/makeshifters</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Vicki Ball</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/makeshifters#comment-1912</link>
+		<dc:creator>Vicki Ball</dc:creator>
+		<pubDate>Mon, 11 Oct 2010 17:25:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=20691#comment-1912</guid>
+		<description>Many thanks for the link!</description>
+		<content:encoded><![CDATA[<p>Many thanks for the link!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; Trends</title>
+	<atom:link href="/web-design/articles/web-design-trends/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Grid/Graph Paper Design Trend – 10 examples</title>
+		<link>http://www.designfridge.co.uk/articles/gridgraph-paper-design-trend-%e2%80%93-10-examples</link>
+		<comments>http://www.designfridge.co.uk/articles/gridgraph-paper-design-trend-%e2%80%93-10-examples#comments</comments>
+		<pubDate>Tue, 30 Mar 2010 20:07:57 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Trends]]></category>
+		<category><![CDATA[Web Design Articles]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=12483</guid>
+		<description><![CDATA[<p>I first noticed grid paper being used on Squared Eye’s re-design early last year (Feb 2009). That site got a lot of recognition (rightly so) and I wonder if it’s been a contributing factor in this growing trend.
+I’ve spotted the increased use of this in the last 3 months mostly on the sites of design studios and freelancer’s portfolios. I think this is</p>]]></description>
+			<content:encoded><![CDATA[<p>I first noticed grid paper being used on Squared Eye’s re-design early last year (Feb 2009). That site got a lot of recognition (rightly so) and I wonder if it’s been a contributing factor in this growing trend.
+I’ve spotted the increased use of this in the last 3 months mostly on the sites of design studios and freelancer’s portfolios. I think this is</p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/articles/gridgraph-paper-design-trend-%e2%80%93-10-examples/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>35 Minimal Sites with Circular Logos</title>
+		<link>http://www.designfridge.co.uk/articles/web-design-trends/minimal-sites-with-circular-logos-35-examples-of-this-growing-design-trend</link>
+		<comments>http://www.designfridge.co.uk/articles/web-design-trends/minimal-sites-with-circular-logos-35-examples-of-this-growing-design-trend#comments</comments>
+		<pubDate>Sat, 20 Feb 2010 20:40:20 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Trends]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=10813</guid>
+		<description><![CDATA[<p>A Growing Design Trend
+In the last 6 months I&#8217;ve noticed more and more sites popping up with circular logos, and more often than not they sit in a minimal design.
+Why is this?
+Well i don&#8217;t think its a case of copycat mentality, or designers adopting a specific design style in order to be trendy. Its more to do with balance and composition. Minimal sites</p>]]></description>
+			<content:encoded><![CDATA[<p>A Growing Design Trend
+In the last 6 months I&#8217;ve noticed more and more sites popping up with circular logos, and more often than not they sit in a minimal design.
+Why is this?
+Well i don&#8217;t think its a case of copycat mentality, or designers adopting a specific design style in order to be trendy. Its more to do with balance and composition. Minimal sites</p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/articles/web-design-trends/minimal-sites-with-circular-logos-35-examples-of-this-growing-design-trend/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: YOKABOO</title>
+	<atom:link href="/inspiration/funky/yokaboo/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/funky/yokaboo</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: lagu</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/yokaboo#comment-345</link>
+		<dc:creator>lagu</dc:creator>
+		<pubDate>Fri, 04 Dec 2009 15:44:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=1349#comment-345</guid>
+		<description>This web is really cool!! I love the design!!!!!!
+
+Really funky and a great idea!!
+
+Well done guys!!!!</description>
+		<content:encoded><![CDATA[<p>This web is really cool!! I love the design!!!!!!</p>
+<p>Really funky and a great idea!!</p>
+<p>Well done guys!!!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

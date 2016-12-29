@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Moustache</title>
+	<atom:link href="/inspiration/minimal/moustache/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/minimal/moustache</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Shane Prendergast</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/moustache#comment-3705</link>
+		<dc:creator>Shane Prendergast</dc:creator>
+		<pubDate>Fri, 19 Oct 2012 12:54:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50036#comment-3705</guid>
+		<description>Thanks a lot for the feature Jim! It&#039;s a privilege!</description>
+		<content:encoded><![CDATA[<p>Thanks a lot for the feature Jim! It&#8217;s a privilege!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Design Fridge &#8211; Featured &#124; Shane Prendergast</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/moustache#comment-3702</link>
+		<dc:creator>Design Fridge &#8211; Featured &#124; Shane Prendergast</dc:creator>
+		<pubDate>Thu, 18 Oct 2012 17:55:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50036#comment-3702</guid>
+		<description>[...] So for me to be featured on it three years later fills me with joy realising how far I have come! All that hard work was certainly worth it and finally, at last, I’M FEATURED! www.designfridge.co.uk/inspiration/minimal/moustache  [...]</description>
+		<content:encoded><![CDATA[<p>[...] So for me to be featured on it three years later fills me with joy realising how far I have come! All that hard work was certainly worth it and finally, at last, I’M FEATURED! <a href="/inspiration/minimal/moustache " rel="nofollow">http://www.designfridge.co.uk/inspiration/minimal/moustache </a> [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

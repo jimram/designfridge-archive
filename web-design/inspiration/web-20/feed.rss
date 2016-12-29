@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; Web 2.0</title>
+	<atom:link href="/web-design/inspiration/web-20/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Cacoo</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/cacoo</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/cacoo#comments</comments>
+		<pubDate>Fri, 05 Oct 2012 08:29:21 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[tool]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=49396</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/cacoo/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Gatwick Express Tracks</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/gatwick-express-tracks</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/gatwick-express-tracks#comments</comments>
+		<pubDate>Wed, 22 Aug 2012 16:30:01 +0000</pubDate>
+		<dc:creator>lee</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47840</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/gatwick-express-tracks/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Panasonic Lamdash DNA</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/panasonic-lamdash-dna</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/panasonic-lamdash-dna#comments</comments>
+		<pubDate>Tue, 14 Aug 2012 15:39:14 +0000</pubDate>
+		<dc:creator>lee</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[grey]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47602</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/panasonic-lamdash-dna/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>My Own Bike</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/my-own-bike</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/my-own-bike#comments</comments>
+		<pubDate>Sat, 11 Aug 2012 17:31:42 +0000</pubDate>
+		<dc:creator>lee</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[shop]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47535</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/my-own-bike/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Goal Stacker</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/goal-stacker</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/goal-stacker#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 09:07:30 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44650</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/goal-stacker/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Interstate</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/interstate</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/interstate#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 09:05:17 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[app]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44705</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/interstate/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Toyota Landcruiser</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/toyota-landcruiser</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/toyota-landcruiser#comments</comments>
+		<pubDate>Wed, 11 Apr 2012 07:49:08 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[brochure]]></category>
+		<category><![CDATA[glossy]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44259</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/toyota-landcruiser/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Glyphish</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/glyphish</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/glyphish#comments</comments>
+		<pubDate>Fri, 02 Mar 2012 09:29:43 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[wood]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=43067</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/glyphish/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Page Scroller</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/page-scroller-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/page-scroller-2#comments</comments>
+		<pubDate>Thu, 16 Feb 2012 09:05:19 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[green]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=42396</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/page-scroller-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Clarify</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/clarify</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/clarify#comments</comments>
+		<pubDate>Wed, 15 Feb 2012 08:57:36 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=42353</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/clarify/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Studio7</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/studio7</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/studio7#comments</comments>
+		<pubDate>Wed, 15 Feb 2012 08:56:33 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[studio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=42350</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/studio7/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ramotion</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/ramotion-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/ramotion-2#comments</comments>
+		<pubDate>Fri, 20 Jan 2012 09:22:50 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[studio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=41332</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/ramotion-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

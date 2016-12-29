@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; Creative</title>
+	<atom:link href="/web-design/resources/creative/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Style Manual</title>
+		<link>http://www.designfridge.co.uk/resources/creative/style-manual</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/style-manual#comments</comments>
+		<pubDate>Thu, 29 Nov 2012 09:18:13 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51762</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/style-manual/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Iconmonstr &#8211; Free simple vector icons for your next project.</title>
+		<link>http://www.designfridge.co.uk/resources/creative/iconmonstr-free-simple-vector-icons-for-your-next-project</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/iconmonstr-free-simple-vector-icons-for-your-next-project#comments</comments>
+		<pubDate>Thu, 19 Jul 2012 08:52:42 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46976</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/iconmonstr-free-simple-vector-icons-for-your-next-project/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Patternizer.com &#8211; Strip pattern generator</title>
+		<link>http://www.designfridge.co.uk/resources/creative/patternizer-com-strip-pattern-generator</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/patternizer-com-strip-pattern-generator#comments</comments>
+		<pubDate>Tue, 06 Sep 2011 08:10:01 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=36390</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/patternizer-com-strip-pattern-generator/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Grafficants</title>
+		<link>http://www.designfridge.co.uk/resources/creative/grafficants</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/grafficants#comments</comments>
+		<pubDate>Mon, 05 Sep 2011 13:45:41 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=36352</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/grafficants/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>20 Clean And Creative Letterpress Business Cards</title>
+		<link>http://www.designfridge.co.uk/resources/creative/20-clean-and-creative-letterpress-business-cards</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/20-clean-and-creative-letterpress-business-cards#comments</comments>
+		<pubDate>Wed, 24 Aug 2011 16:10:51 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=35973</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/20-clean-and-creative-letterpress-business-cards/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress Countdown with Reflection</title>
+		<link>http://www.designfridge.co.uk/resources/creative/wordpress-countdown-with-reflection</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/wordpress-countdown-with-reflection#comments</comments>
+		<pubDate>Thu, 11 Aug 2011 21:25:21 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=35517</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/wordpress-countdown-with-reflection/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Facebook Page PSD Template Freebie</title>
+		<link>http://www.designfridge.co.uk/resources/creative/facebook-page-psd-template-freebie</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/facebook-page-psd-template-freebie#comments</comments>
+		<pubDate>Thu, 11 Aug 2011 21:24:28 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=35514</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/facebook-page-psd-template-freebie/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PSD freebies and tutorials</title>
+		<link>http://www.designfridge.co.uk/resources/creative/psd-freebies-and-tutorials</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/psd-freebies-and-tutorials#comments</comments>
+		<pubDate>Thu, 11 Aug 2011 21:23:44 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=35511</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/psd-freebies-and-tutorials/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GeoCon Light &#8211; New Font</title>
+		<link>http://www.designfridge.co.uk/resources/creative/geocon-light-new-font</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/geocon-light-new-font#comments</comments>
+		<pubDate>Tue, 07 Jun 2011 20:03:59 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=32281</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/geocon-light-new-font/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The best 404 pages on the web!</title>
+		<link>http://www.designfridge.co.uk/resources/creative/the-best-404-pages-on-the-web</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/the-best-404-pages-on-the-web#comments</comments>
+		<pubDate>Mon, 23 May 2011 20:50:10 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=31481</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/the-best-404-pages-on-the-web/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Subtle patterns &#8211; textured tileable backgrounds</title>
+		<link>http://www.designfridge.co.uk/resources/creative/subtle-patterns</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/subtle-patterns#comments</comments>
+		<pubDate>Wed, 04 May 2011 20:35:55 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=30225</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/subtle-patterns/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web Icon Set</title>
+		<link>http://www.designfridge.co.uk/resources/web-icon-set-2</link>
+		<comments>http://www.designfridge.co.uk/resources/web-icon-set-2#comments</comments>
+		<pubDate>Wed, 04 May 2011 19:50:56 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[Web Design Resources]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=30343</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/web-icon-set-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

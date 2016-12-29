@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; multi</title>
+	<atom:link href="/web-design-inspiration/multi/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Tech Trends 2014 &#124; frog</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/tech-trends-2014-frog</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/tech-trends-2014-frog#comments</comments>
+		<pubDate>Thu, 09 Jan 2014 11:17:22 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[tech]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65372</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/tech-trends-2014-frog/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rubis</title>
+		<link>http://www.designfridge.co.uk/uncategorized/rubis</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/rubis#comments</comments>
+		<pubDate>Fri, 28 Jun 2013 08:28:47 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[sport]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=59764</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/rubis/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Fontstage</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/fontstage</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/fontstage#comments</comments>
+		<pubDate>Fri, 28 Jun 2013 07:46:14 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=59758</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/fontstage/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Potluck</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/potluck</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/potluck#comments</comments>
+		<pubDate>Fri, 28 Jun 2013 07:42:09 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=59752</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/potluck/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fostr</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/fostr-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/fostr-2#comments</comments>
+		<pubDate>Mon, 24 Jun 2013 11:14:57 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=59612</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/fostr-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>LRXD</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/lrxd</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/lrxd#comments</comments>
+		<pubDate>Tue, 28 May 2013 08:39:16 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58796</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/lrxd/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Artem and Julia</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/artem-and-julia</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/artem-and-julia#comments</comments>
+		<pubDate>Wed, 22 May 2013 09:01:52 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58616</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/artem-and-julia/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Design Embraced</title>
+		<link>http://www.designfridge.co.uk/uncategorized/design-embraced-2</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/design-embraced-2#comments</comments>
+		<pubDate>Fri, 03 May 2013 08:01:45 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57913</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/design-embraced-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Taasky</title>
+		<link>http://www.designfridge.co.uk/uncategorized/taasky</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/taasky#comments</comments>
+		<pubDate>Mon, 29 Apr 2013 08:49:30 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57530</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/taasky/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nothing Magical</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/nothing-magical</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/nothing-magical#comments</comments>
+		<pubDate>Mon, 22 Apr 2013 09:26:24 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57502</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/nothing-magical/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Prophets</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/prophets</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/prophets#comments</comments>
+		<pubDate>Thu, 04 Apr 2013 20:02:07 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56620</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/prophets/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tuts+</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/tuts</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/tuts#comments</comments>
+		<pubDate>Thu, 04 Apr 2013 20:00:01 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56609</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/tuts/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

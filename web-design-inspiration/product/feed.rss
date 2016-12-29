@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; product</title>
+	<atom:link href="/web-design-inspiration/product/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Memoir App</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/memoir-app</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/memoir-app#comments</comments>
+		<pubDate>Fri, 28 Mar 2014 17:22:19 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68147</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/memoir-app/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Moto 360 by Motorola</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/moto-360-by-motorola</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/moto-360-by-motorola#comments</comments>
+		<pubDate>Thu, 20 Mar 2014 11:05:34 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[onepager]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67848</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/moto-360-by-motorola/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mod Notebooks</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/mod-notebooks</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/mod-notebooks#comments</comments>
+		<pubDate>Tue, 18 Mar 2014 11:59:50 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[ecom]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67746</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/mod-notebooks/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Aether</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/aether</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/aether#comments</comments>
+		<pubDate>Fri, 07 Mar 2014 10:42:07 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67393</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/aether/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ouur</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/ouur</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/ouur#comments</comments>
+		<pubDate>Wed, 05 Mar 2014 12:12:39 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[fashion]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67294</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/ouur/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PillPack</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/pillpack</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/pillpack#comments</comments>
+		<pubDate>Wed, 05 Feb 2014 10:54:06 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[medical]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66477</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/pillpack/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Durr</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/durr</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/durr#comments</comments>
+		<pubDate>Mon, 03 Feb 2014 11:35:34 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[ecom]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66410</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/durr/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fliike, by Smiirl</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/fliike-by-smiirl</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/fliike-by-smiirl#comments</comments>
+		<pubDate>Mon, 03 Feb 2014 11:29:04 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[product]]></category>
+		<category><![CDATA[social]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66412</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/fliike-by-smiirl/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Flagsmith</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/flagsmith</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/flagsmith#comments</comments>
+		<pubDate>Thu, 30 Jan 2014 11:24:52 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[product]]></category>
+		<category><![CDATA[typeface]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66306</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/flagsmith/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mail Chimp goes with you.</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/mail-chimp-goes-with-you</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/mail-chimp-goes-with-you#comments</comments>
+		<pubDate>Wed, 22 Jan 2014 11:31:56 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[product]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65976</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/mail-chimp-goes-with-you/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Taking exploration to new depths</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/taking-exploration-to-new-depths</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/taking-exploration-to-new-depths#comments</comments>
+		<pubDate>Tue, 14 Jan 2014 12:57:40 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65648</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/taking-exploration-to-new-depths/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Poncho</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/poncho</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/poncho#comments</comments>
+		<pubDate>Tue, 07 Jan 2014 15:40:56 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65334</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/poncho/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

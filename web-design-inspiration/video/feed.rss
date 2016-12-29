@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; video</title>
+	<atom:link href="/web-design-inspiration/video/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>THE SOURCE</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/the-source</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/the-source#comments</comments>
+		<pubDate>Thu, 30 Jan 2014 11:06:41 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66300</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/the-source/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Future Collective</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/future-collective</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/future-collective#comments</comments>
+		<pubDate>Tue, 28 Jan 2014 11:59:59 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66198</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/future-collective/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Manuel Rueda</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/manuel-rueda</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/manuel-rueda#comments</comments>
+		<pubDate>Fri, 20 Dec 2013 09:37:30 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65079</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/manuel-rueda/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>24hoursofhappy</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/24hoursofhappy</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/24hoursofhappy#comments</comments>
+		<pubDate>Fri, 22 Nov 2013 11:32:19 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64248</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/24hoursofhappy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Poolhouse</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/poolhouse</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/poolhouse#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 10:53:17 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63973</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/poolhouse/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Directr</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/directr</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/directr#comments</comments>
+		<pubDate>Fri, 17 Aug 2012 11:29:05 +0000</pubDate>
+		<dc:creator>lee</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47715</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/directr/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vimeo</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/vimeo</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/vimeo#comments</comments>
+		<pubDate>Tue, 24 Apr 2012 08:25:50 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44633</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/vimeo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mozilla Popcorn</title>
+		<link>http://www.designfridge.co.uk/uncategorized/mozilla-popcorn</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/mozilla-popcorn#comments</comments>
+		<pubDate>Tue, 17 Jan 2012 09:34:27 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[yellow]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=41000</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/mozilla-popcorn/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cowbird</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/cowbird</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/cowbird#comments</comments>
+		<pubDate>Mon, 12 Dec 2011 09:09:47 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=40028</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/cowbird/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>vlog.it</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/vlog-it-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/vlog-it-2#comments</comments>
+		<pubDate>Thu, 13 Oct 2011 08:05:03 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=37990</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/vlog-it-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mubi</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/mubi</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/mubi#comments</comments>
+		<pubDate>Tue, 01 Mar 2011 09:09:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=27284</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/mubi/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Animal Virals</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/animal-virals</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/animal-virals#comments</comments>
+		<pubDate>Wed, 22 Dec 2010 08:50:29 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[brown]]></category>
+		<category><![CDATA[paper]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=23448</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/animal-virals/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Tanukis</title>
+	<atom:link href="/inspiration/clean/tanukis/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/clean/tanukis</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: James</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/tanukis#comment-2632</link>
+		<dc:creator>James</dc:creator>
+		<pubDate>Tue, 11 Oct 2011 08:33:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=37719#comment-2632</guid>
+		<description>This site is just &lt;strong&gt;Amazing !!!&lt;/strong&gt;
+Simple but effective...
+Thx for this one !</description>
+		<content:encoded><![CDATA[<p>This site is just <strong>Amazing !!!</strong><br />
+Simple but effective&#8230;<br />
+Thx for this one !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Albert</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/tanukis#comment-2625</link>
+		<dc:creator>Albert</dc:creator>
+		<pubDate>Thu, 06 Oct 2011 10:15:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=37719#comment-2625</guid>
+		<description>Really nice! The transitions between the different projects in the portfolio section is simple, but stylish.
+
+Thanks for this one, very inspiring.</description>
+		<content:encoded><![CDATA[<p>Really nice! The transitions between the different projects in the portfolio section is simple, but stylish.</p>
+<p>Thanks for this one, very inspiring.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; Community</title>
+	<atom:link href="/web-design-inspiration/community/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>PCAH</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/pcah</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/pcah#comments</comments>
+		<pubDate>Mon, 07 Apr 2014 10:26:04 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[Community]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68318</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/pcah/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Creative Mornings</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/creative-mornings</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/creative-mornings#comments</comments>
+		<pubDate>Tue, 10 Sep 2013 10:29:34 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[design]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=62067</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/creative-mornings/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Potluck</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/potluck</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/potluck#comments</comments>
+		<pubDate>Fri, 28 Jun 2013 07:42:09 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=59752</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/potluck/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fostr</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/fostr-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/fostr-2#comments</comments>
+		<pubDate>Mon, 24 Jun 2013 11:14:57 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=59612</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/fostr-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Maker’s Row</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/maker%e2%80%99s-row</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/maker%e2%80%99s-row#comments</comments>
+		<pubDate>Wed, 02 Jan 2013 23:34:36 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52914</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/maker%e2%80%99s-row/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scoutzie</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/scoutzie</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/scoutzie#comments</comments>
+		<pubDate>Mon, 14 May 2012 08:11:03 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[design]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45138</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/scoutzie/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WorkFu</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/workfu</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/workfu#comments</comments>
+		<pubDate>Wed, 04 Jan 2012 09:07:16 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=40710</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/workfu/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Treehouse</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/treehouse</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/treehouse#comments</comments>
+		<pubDate>Fri, 07 Oct 2011 08:08:14 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[grey]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=37794</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/treehouse/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>STA</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/sta</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/sta#comments</comments>
+		<pubDate>Tue, 02 Aug 2011 08:07:48 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[Community]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=34825</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/sta/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>TIS &#8211; Tokyo Illustrators Society</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/tis-tokyo-illustrators-society</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/tis-tokyo-illustrators-society#comments</comments>
+		<pubDate>Tue, 20 Jul 2010 11:31:01 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/minimal/tis-tokyo-illustrators-society</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/tis-tokyo-illustrators-society/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Zotsy</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/zotsy</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/zotsy#comments</comments>
+		<pubDate>Thu, 10 Jun 2010 07:46:26 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[grey]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/clean/zotsy</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/zotsy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5oup</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/5oup</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/5oup#comments</comments>
+		<pubDate>Fri, 12 Mar 2010 22:08:22 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[grey]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=11507</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/5oup/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

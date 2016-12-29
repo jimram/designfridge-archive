@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; brand</title>
+	<atom:link href="/web-design-inspiration/brand/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Grain &amp; Mortar</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/grain-mortar</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/grain-mortar#comments</comments>
+		<pubDate>Mon, 10 Mar 2014 11:05:21 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67447</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/grain-mortar/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MailChimp Annual Report</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/mailchimp-annual-report</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/mailchimp-annual-report#comments</comments>
+		<pubDate>Fri, 03 Jan 2014 11:57:32 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[brand]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65266</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/mailchimp-annual-report/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Drexler</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/drexler-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/drexler-2#comments</comments>
+		<pubDate>Tue, 03 Dec 2013 11:02:27 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[studio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64529</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/drexler-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tillamook</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/tillamook</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/tillamook#comments</comments>
+		<pubDate>Tue, 26 Nov 2013 10:46:14 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[story]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64362</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/tillamook/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MadeCo</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/madeco</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/madeco#comments</comments>
+		<pubDate>Fri, 01 Mar 2013 00:16:24 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[food]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55330</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/madeco/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bang &amp; Olufsen</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/bang-olufsen</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/bang-olufsen#comments</comments>
+		<pubDate>Wed, 14 Nov 2012 09:35:29 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51258</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/bang-olufsen/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PUMA Social Cards</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/puma-social-cards</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/puma-social-cards#comments</comments>
+		<pubDate>Thu, 25 Oct 2012 08:00:35 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[sport]]></category>
+		<category><![CDATA[wood]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50297</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/puma-social-cards/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>tommy.com</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/tommy-com</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/tommy-com#comments</comments>
+		<pubDate>Wed, 24 Oct 2012 08:01:48 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[ecom]]></category>
+		<category><![CDATA[fashion]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50354</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/tommy-com/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sennep</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/sennep</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/sennep#comments</comments>
+		<pubDate>Tue, 21 Aug 2012 09:55:31 +0000</pubDate>
+		<dc:creator>lee</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[fashion]]></category>
+		<category><![CDATA[grey]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47779</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/sennep/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reebok</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/reebok-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/reebok-2#comments</comments>
+		<pubDate>Thu, 12 Apr 2012 08:33:39 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[fashion]]></category>
+		<category><![CDATA[sport]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44300</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/reebok-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Toyota Landcruiser</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/toyota-landcruiser</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/toyota-landcruiser#comments</comments>
+		<pubDate>Wed, 11 Apr 2012 07:49:08 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[brochure]]></category>
+		<category><![CDATA[glossy]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44259</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/toyota-landcruiser/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Air Jordan 2012</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/air-jordan-2012</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/air-jordan-2012#comments</comments>
+		<pubDate>Mon, 27 Feb 2012 08:48:34 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[1col]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[sport]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=42816</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/air-jordan-2012/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

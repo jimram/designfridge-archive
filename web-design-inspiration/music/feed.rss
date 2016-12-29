@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; music</title>
+	<atom:link href="/web-design-inspiration/music/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Aether</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/aether</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/aether#comments</comments>
+		<pubDate>Fri, 07 Mar 2014 10:42:07 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67393</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/aether/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pacemaker</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/pacemaker</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/pacemaker#comments</comments>
+		<pubDate>Tue, 04 Feb 2014 10:23:39 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66444</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/pacemaker/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Resident Advisor</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/resident-advisor</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/resident-advisor#comments</comments>
+		<pubDate>Mon, 27 Jan 2014 12:38:11 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66142</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/resident-advisor/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>West-Eastern Divan Orchestra</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/west-eastern-divan-orchestra</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/west-eastern-divan-orchestra#comments</comments>
+		<pubDate>Thu, 23 Jan 2014 11:01:31 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[non-latin]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66025</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/west-eastern-divan-orchestra/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Keezy</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/keezy</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/keezy#comments</comments>
+		<pubDate>Mon, 13 Jan 2014 11:05:33 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65583</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/keezy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>music4kids</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/music4kids</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/music4kids#comments</comments>
+		<pubDate>Wed, 04 Dec 2013 10:38:27 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64575</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/music4kids/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>24hoursofhappy</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/24hoursofhappy</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/24hoursofhappy#comments</comments>
+		<pubDate>Fri, 22 Nov 2013 11:32:19 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64248</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/24hoursofhappy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>folkelarm</title>
+		<link>http://www.designfridge.co.uk/uncategorized/folkelarm</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/folkelarm#comments</comments>
+		<pubDate>Thu, 14 Nov 2013 10:27:12 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64007</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.folkelarm.no/"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/folkelarm/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>intromusique</title>
+		<link>http://www.designfridge.co.uk/uncategorized/intromusique</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/intromusique#comments</comments>
+		<pubDate>Thu, 07 Nov 2013 10:21:05 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[venue]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63798</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p><a href="http://intromusique.ca/"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/intromusique/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Marmoset</title>
+		<link>http://www.designfridge.co.uk/uncategorized/marmoset</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/marmoset#comments</comments>
+		<pubDate>Fri, 13 Sep 2013 09:55:28 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=62174</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/marmoset/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Files Rec.</title>
+		<link>http://www.designfridge.co.uk/uncategorized/files-rec</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/files-rec#comments</comments>
+		<pubDate>Thu, 28 Mar 2013 08:00:40 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56414</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/files-rec/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rivers and Robots</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/rivers-and-robots</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/rivers-and-robots#comments</comments>
+		<pubDate>Wed, 20 Feb 2013 08:02:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55030</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/rivers-and-robots/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

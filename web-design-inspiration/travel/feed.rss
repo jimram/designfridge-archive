@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; travel</title>
+	<atom:link href="/web-design-inspiration/travel/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>15 Days in Japan</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/15-days-in-japan</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/15-days-in-japan#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 10:52:50 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[reportage]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63971</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/15-days-in-japan/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Automatic</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/automatic</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/automatic#comments</comments>
+		<pubDate>Wed, 13 Mar 2013 10:39:50 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55866</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/automatic/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>dcovery</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/dcovery</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/dcovery#comments</comments>
+		<pubDate>Wed, 02 Jan 2013 23:31:00 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52784</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/dcovery/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Combadi</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/combadi</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/combadi#comments</comments>
+		<pubDate>Tue, 11 Dec 2012 09:33:56 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52324</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/combadi/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RidePost</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/ridepost</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/ridepost#comments</comments>
+		<pubDate>Tue, 16 Oct 2012 08:02:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50042</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/ridepost/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>accommodation.com</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/accommodation-com</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/accommodation-com#comments</comments>
+		<pubDate>Fri, 12 Oct 2012 08:02:59 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=49638</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/accommodation-com/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Travel Oregon</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/travel-oregon</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/travel-oregon#comments</comments>
+		<pubDate>Mon, 01 Oct 2012 08:04:17 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[brown]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=49258</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/travel-oregon/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kiawah island</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/kiawah-island</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/kiawah-island#comments</comments>
+		<pubDate>Mon, 24 Sep 2012 08:19:47 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[brochure]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[venue]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=48961</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/kiawah-island/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SF Journey</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/sf-journey</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/sf-journey#comments</comments>
+		<pubDate>Wed, 19 Sep 2012 08:28:58 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[1col]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=48765</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/sf-journey/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Epic Discovery</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/epic-discovery</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/epic-discovery#comments</comments>
+		<pubDate>Thu, 02 Aug 2012 16:01:38 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[brown]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[sport]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[venue]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47323</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/epic-discovery/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Christophe Harbour</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/christophe-harbour</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/christophe-harbour#comments</comments>
+		<pubDate>Mon, 18 Jun 2012 08:10:54 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[venue]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46127</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/christophe-harbour/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Just Landed</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/just-landed</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/just-landed#comments</comments>
+		<pubDate>Wed, 13 Jun 2012 08:54:38 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46026</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/just-landed/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

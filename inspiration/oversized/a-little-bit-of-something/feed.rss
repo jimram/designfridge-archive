@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: a little bit of something</title>
+	<atom:link href="/inspiration/oversized/a-little-bit-of-something/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/oversized/a-little-bit-of-something</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: How Embarressing</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/a-little-bit-of-something#comment-2457</link>
+		<dc:creator>How Embarressing</dc:creator>
+		<pubDate>Tue, 26 Jul 2011 14:30:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=34385#comment-2457</guid>
+		<description>I would be embarrassed as hell to put this up as my website... perfect example of why our profession is not taken as seriously as it should. Good job buddy!</description>
+		<content:encoded><![CDATA[<p>I would be embarrassed as hell to put this up as my website&#8230; perfect example of why our profession is not taken as seriously as it should. Good job buddy!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

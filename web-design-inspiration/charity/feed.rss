@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; charity</title>
+	<atom:link href="/web-design-inspiration/charity/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>First Aid Dorset</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/first-aid-dorset</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/first-aid-dorset#comments</comments>
+		<pubDate>Thu, 12 Dec 2013 10:29:45 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64820</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/first-aid-dorset/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Surge</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/the-surge</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/the-surge#comments</comments>
+		<pubDate>Tue, 26 Nov 2013 10:41:11 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64364</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/the-surge/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Names for Change</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/names-for-change</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/names-for-change#comments</comments>
+		<pubDate>Thu, 21 Nov 2013 10:29:58 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64225</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/names-for-change/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sevenly.org</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/sevenly-org</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/sevenly-org#comments</comments>
+		<pubDate>Mon, 10 Jun 2013 10:17:02 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=59169</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/sevenly-org/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Coastal Conservation</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/coastal-conservation</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/coastal-conservation#comments</comments>
+		<pubDate>Mon, 15 Apr 2013 07:01:01 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[cream]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57224</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/coastal-conservation/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Into The Arctic</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/into-the-arctic</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/into-the-arctic#comments</comments>
+		<pubDate>Mon, 15 Apr 2013 07:00:19 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[charity]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57227</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/into-the-arctic/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Standbuy</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/standbuy</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/standbuy#comments</comments>
+		<pubDate>Tue, 12 Feb 2013 12:42:01 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=54801</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/standbuy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Every Last Drop</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/every-last-drop</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/every-last-drop#comments</comments>
+		<pubDate>Mon, 11 Feb 2013 12:53:27 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[1col]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=54719</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/every-last-drop/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Designed to Move</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/designed-to-move</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/designed-to-move#comments</comments>
+		<pubDate>Tue, 22 Jan 2013 08:02:13 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[orange]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=53820</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/designed-to-move/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>52&#215;52.org</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/52x52-org</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/52x52-org#comments</comments>
+		<pubDate>Wed, 02 Jan 2013 23:49:05 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[green]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=53041</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/52x52-org/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>soworldwide.org</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/soworldwide-org</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/soworldwide-org#comments</comments>
+		<pubDate>Thu, 11 Oct 2012 08:04:22 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=49711</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/soworldwide-org/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Notfound.org</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/notfound-org</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/notfound-org#comments</comments>
+		<pubDate>Mon, 01 Oct 2012 07:59:43 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[green]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=49088</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/notfound-org/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

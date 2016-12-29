@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Ricky Synnot</title>
+	<atom:link href="/inspiration/minimal/ricky-synnot-2/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/minimal/ricky-synnot-2</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Ricky Synnot</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/ricky-synnot-2#comment-4723</link>
+		<dc:creator>Ricky Synnot</dc:creator>
+		<pubDate>Mon, 13 May 2013 12:31:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=8740#comment-4723</guid>
+		<description>Wow this is great!  You spelt my name wrong!</description>
+		<content:encoded><![CDATA[<p>Wow this is great!  You spelt my name wrong!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

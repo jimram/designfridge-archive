@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: the art of re use</title>
+	<atom:link href="/inspiration/minimal/the-art-of-re-use/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/minimal/the-art-of-re-use</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: owen</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/the-art-of-re-use#comment-2485</link>
+		<dc:creator>owen</dc:creator>
+		<pubDate>Fri, 12 Aug 2011 17:32:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=35527#comment-2485</guid>
+		<description>Seriously? Autoplay music? Are they retarded?</description>
+		<content:encoded><![CDATA[<p>Seriously? Autoplay music? Are they retarded?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

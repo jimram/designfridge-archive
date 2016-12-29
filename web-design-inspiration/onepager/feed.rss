@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; onepager</title>
+	<atom:link href="/web-design-inspiration/onepager/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>We made history</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/we-made-history</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/we-made-history#comments</comments>
+		<pubDate>Mon, 07 Apr 2014 10:25:56 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[onepager]]></category>
+		<category><![CDATA[timeline]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68320</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/we-made-history/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kickdrop</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/kickdrop</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/kickdrop#comments</comments>
+		<pubDate>Fri, 28 Mar 2014 17:25:29 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[ecom]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68156</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/kickdrop/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jelajah</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/jelajah</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/jelajah#comments</comments>
+		<pubDate>Thu, 20 Mar 2014 11:06:10 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67852</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/jelajah/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Moto 360 by Motorola</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/moto-360-by-motorola</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/moto-360-by-motorola#comments</comments>
+		<pubDate>Thu, 20 Mar 2014 11:05:34 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[onepager]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67848</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/moto-360-by-motorola/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vicomte Font</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/vicomte-font</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/vicomte-font#comments</comments>
+		<pubDate>Tue, 18 Mar 2014 12:02:53 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[onepager]]></category>
+		<category><![CDATA[typeface]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67750</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/vicomte-font/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FLIGHT</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/flight</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/flight#comments</comments>
+		<pubDate>Fri, 14 Mar 2014 11:02:03 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67612</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/flight/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Debut Plus</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/debut-plus</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/debut-plus#comments</comments>
+		<pubDate>Thu, 13 Mar 2014 11:16:24 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67570</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/debut-plus/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>F8 Developer Conference</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/f8-developer-conference</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/f8-developer-conference#comments</comments>
+		<pubDate>Tue, 11 Mar 2014 11:22:19 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67484</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/f8-developer-conference/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mads Burcharth</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/mads-burcharth</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/mads-burcharth#comments</comments>
+		<pubDate>Fri, 21 Feb 2014 09:24:35 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[onepager]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66991</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/mads-burcharth/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>True Detective</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/true-detective</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/true-detective#comments</comments>
+		<pubDate>Fri, 21 Feb 2014 09:24:00 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[onepager]]></category>
+		<category><![CDATA[tv]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66995</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/true-detective/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Soleil Noir &#124; Dream on</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/soleil-noir-dream-on</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/soleil-noir-dream-on#comments</comments>
+		<pubDate>Tue, 11 Feb 2014 11:49:21 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66647</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/soleil-noir-dream-on/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Big Cartel 2013</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/big-cartel-2013</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/big-cartel-2013#comments</comments>
+		<pubDate>Wed, 05 Feb 2014 10:55:23 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[ecom]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66479</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/big-cartel-2013/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

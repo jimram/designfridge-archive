@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; glossy</title>
+	<atom:link href="/web-design-inspiration/glossy/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Taking exploration to new depths</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/taking-exploration-to-new-depths</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/taking-exploration-to-new-depths#comments</comments>
+		<pubDate>Tue, 14 Jan 2014 12:57:40 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65648</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/taking-exploration-to-new-depths/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>2013 &#8211; Letterboxd</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/2013-letterboxd</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/2013-letterboxd#comments</comments>
+		<pubDate>Wed, 08 Jan 2014 11:22:05 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[glossy]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65358</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/2013-letterboxd/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vertu Constellation</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/vertu-constellation</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/vertu-constellation#comments</comments>
+		<pubDate>Thu, 07 Nov 2013 10:30:37 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63805</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/vertu-constellation/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>VHX</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/vhx</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/vhx#comments</comments>
+		<pubDate>Thu, 28 Mar 2013 20:00:18 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[tv]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56427</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/vhx/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cintiq 13HD</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/cintiq-13hd</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/cintiq-13hd#comments</comments>
+		<pubDate>Wed, 20 Mar 2013 20:01:45 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56152</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/cintiq-13hd/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kickoff app</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/kickoff-app</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/kickoff-app#comments</comments>
+		<pubDate>Wed, 13 Mar 2013 10:45:16 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[glossy]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55872</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/kickoff-app/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kickoff</title>
+		<link>http://www.designfridge.co.uk/uncategorized/kickoff-2</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/kickoff-2#comments</comments>
+		<pubDate>Thu, 20 Dec 2012 19:19:38 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[glossy]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52506</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/kickoff-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sitelotus</title>
+		<link>http://www.designfridge.co.uk/uncategorized/sitelotus</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/sitelotus#comments</comments>
+		<pubDate>Thu, 20 Dec 2012 19:18:38 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[studio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52519</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/sitelotus/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cacoo</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/cacoo</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/cacoo#comments</comments>
+		<pubDate>Fri, 05 Oct 2012 08:29:21 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[tool]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=49396</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/cacoo/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Well</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/well</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/well#comments</comments>
+		<pubDate>Thu, 30 Aug 2012 08:21:48 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[glossy]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=48085</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/well/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>HackNow 2012</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/hacknow-2012</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/hacknow-2012#comments</comments>
+		<pubDate>Tue, 31 Jul 2012 08:18:48 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[glossy]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47220</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/hacknow-2012/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Panelfly</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/panelfly</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/panelfly#comments</comments>
+		<pubDate>Tue, 26 Jun 2012 08:34:28 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46348</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/panelfly/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

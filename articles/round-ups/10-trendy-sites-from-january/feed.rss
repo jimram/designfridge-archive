@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: 10 most inspiring designs from January 2012</title>
+	<atom:link href="/articles/round-ups/10-trendy-sites-from-january/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/articles/round-ups/10-trendy-sites-from-january</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: S. Quandt</title>
+		<link>http://www.designfridge.co.uk/articles/round-ups/10-trendy-sites-from-january#comment-4408</link>
+		<dc:creator>S. Quandt</dc:creator>
+		<pubDate>Sat, 23 Feb 2013 15:02:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=41747#comment-4408</guid>
+		<description>like the hovland site - wonderful style</description>
+		<content:encoded><![CDATA[<p>like the hovland site &#8211; wonderful style</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Robin</title>
+		<link>http://www.designfridge.co.uk/articles/round-ups/10-trendy-sites-from-january#comment-4082</link>
+		<dc:creator>Robin</dc:creator>
+		<pubDate>Wed, 30 Jan 2013 10:12:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=41747#comment-4082</guid>
+		<description>Awesome collections.</description>
+		<content:encoded><![CDATA[<p>Awesome collections.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

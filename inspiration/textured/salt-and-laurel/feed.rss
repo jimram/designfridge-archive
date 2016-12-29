@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Salt and Laurel</title>
+	<atom:link href="/inspiration/textured/salt-and-laurel/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/textured/salt-and-laurel</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Cristian Gonzalez</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/salt-and-laurel#comment-2689</link>
+		<dc:creator>Cristian Gonzalez</dc:creator>
+		<pubDate>Sun, 20 Nov 2011 15:44:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=39229#comment-2689</guid>
+		<description>WOW! amazing store :D</description>
+		<content:encoded><![CDATA[<p>WOW! amazing store <img src='http://www.designfridge.co.uk/web-design/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; Web Design Resources</title>
+	<atom:link href="/web-design/resources/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Jolly Icons</title>
+		<link>http://www.designfridge.co.uk/resources/interface/jolly-icons</link>
+		<comments>http://www.designfridge.co.uk/resources/interface/jolly-icons#comments</comments>
+		<pubDate>Tue, 10 Sep 2013 09:31:04 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Interface]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=62097</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/interface/jolly-icons/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Style Manual</title>
+		<link>http://www.designfridge.co.uk/resources/creative/style-manual</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/style-manual#comments</comments>
+		<pubDate>Thu, 29 Nov 2012 09:18:13 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51762</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/style-manual/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Userfox &#8211; better welcome emails</title>
+		<link>http://www.designfridge.co.uk/resources/userfox-better-welcome-emails</link>
+		<comments>http://www.designfridge.co.uk/resources/userfox-better-welcome-emails#comments</comments>
+		<pubDate>Thu, 29 Nov 2012 09:17:47 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Web Design Resources]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51871</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/userfox-better-welcome-emails/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>HoverStat.es &#8211; New &amp; interesting examples of movement in interaction design</title>
+		<link>http://www.designfridge.co.uk/resources/interface/hoverstat-es-new-interesting-examples-of-movement-in-interaction-design</link>
+		<comments>http://www.designfridge.co.uk/resources/interface/hoverstat-es-new-interesting-examples-of-movement-in-interaction-design#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 09:42:12 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Interface]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51002</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/interface/hoverstat-es-new-interesting-examples-of-movement-in-interaction-design/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Onword  &#8211; aims to bring beautiful text editing to the browser</title>
+		<link>http://www.designfridge.co.uk/resources/planning/onword-aims-to-bring-beautiful-text-editing-to-the-browser</link>
+		<comments>http://www.designfridge.co.uk/resources/planning/onword-aims-to-bring-beautiful-text-editing-to-the-browser#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 09:40:19 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51053</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/planning/onword-aims-to-bring-beautiful-text-editing-to-the-browser/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RESPONSIVE DESIGN WEEKLY</title>
+		<link>http://www.designfridge.co.uk/resources/development/responsive-design-weekly</link>
+		<comments>http://www.designfridge.co.uk/resources/development/responsive-design-weekly#comments</comments>
+		<pubDate>Thu, 01 Nov 2012 23:13:50 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Development]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50785</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/development/responsive-design-weekly/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blogmate &#8211; Build Your Own Personal Archive</title>
+		<link>http://www.designfridge.co.uk/resources/blogmate</link>
+		<comments>http://www.designfridge.co.uk/resources/blogmate#comments</comments>
+		<pubDate>Thu, 01 Nov 2012 09:20:41 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+		<category><![CDATA[Web Design Resources]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50719</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/blogmate/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fluid UI a browser based app for wireframing</title>
+		<link>http://www.designfridge.co.uk/resources/fluid-ui-a-browser-based-app-for-wireframing</link>
+		<comments>http://www.designfridge.co.uk/resources/fluid-ui-a-browser-based-app-for-wireframing#comments</comments>
+		<pubDate>Thu, 19 Jul 2012 23:13:45 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+		<category><![CDATA[Web Design Resources]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46995</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/fluid-ui-a-browser-based-app-for-wireframing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Iconmonstr &#8211; Free simple vector icons for your next project.</title>
+		<link>http://www.designfridge.co.uk/resources/creative/iconmonstr-free-simple-vector-icons-for-your-next-project</link>
+		<comments>http://www.designfridge.co.uk/resources/creative/iconmonstr-free-simple-vector-icons-for-your-next-project#comments</comments>
+		<pubDate>Thu, 19 Jul 2012 08:52:42 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Creative]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46976</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/creative/iconmonstr-free-simple-vector-icons-for-your-next-project/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gumby Framework: Responsive CSS Grid Framework</title>
+		<link>http://www.designfridge.co.uk/resources/css/gumby-framework-responsive-css-grid-framework</link>
+		<comments>http://www.designfridge.co.uk/resources/css/gumby-framework-responsive-css-grid-framework#comments</comments>
+		<pubDate>Tue, 05 Jun 2012 19:47:11 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[CSS]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45839</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/css/gumby-framework-responsive-css-grid-framework/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Light UI Kit</title>
+		<link>http://www.designfridge.co.uk/resources/interface/light-ui-kit</link>
+		<comments>http://www.designfridge.co.uk/resources/interface/light-ui-kit#comments</comments>
+		<pubDate>Mon, 23 Jan 2012 09:32:35 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Interface]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=41363</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/interface/light-ui-kit/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Futurico – Free User Interface Elements Pack</title>
+		<link>http://www.designfridge.co.uk/resources/interface/futurico-%e2%80%93-free-user-interface-elements-pack-2</link>
+		<comments>http://www.designfridge.co.uk/resources/interface/futurico-%e2%80%93-free-user-interface-elements-pack-2#comments</comments>
+		<pubDate>Mon, 23 Jan 2012 09:32:29 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Interface]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=40191</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/interface/futurico-%e2%80%93-free-user-interface-elements-pack-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

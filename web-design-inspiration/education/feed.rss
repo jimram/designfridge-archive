@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; education</title>
+	<atom:link href="/web-design-inspiration/education/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Jelajah</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/jelajah</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/jelajah#comments</comments>
+		<pubDate>Thu, 20 Mar 2014 11:06:10 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67852</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/jelajah/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Les Ernest</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/les-ernest</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/les-ernest#comments</comments>
+		<pubDate>Tue, 18 Mar 2014 12:02:23 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[events]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67748</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/les-ernest/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Code School&#8217;s 2013 Report Card</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/code-schools-2013-report-card</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/code-schools-2013-report-card#comments</comments>
+		<pubDate>Thu, 09 Jan 2014 11:17:01 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[education]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65376</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/code-schools-2013-report-card/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lets Talk Turkey</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/lets-talk-turkey</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/lets-talk-turkey#comments</comments>
+		<pubDate>Mon, 09 Dec 2013 11:26:11 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[food]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64694</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/lets-talk-turkey/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PeepCode</title>
+		<link>http://www.designfridge.co.uk/uncategorized/peepcode</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/peepcode#comments</comments>
+		<pubDate>Mon, 11 Mar 2013 10:25:15 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[education]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55699</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/peepcode/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Drexel University</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/drexel-university</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/drexel-university#comments</comments>
+		<pubDate>Fri, 14 Dec 2012 10:01:20 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[education]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52452</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/drexel-university/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Become a maker</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/become-a-maker</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/become-a-maker#comments</comments>
+		<pubDate>Wed, 10 Oct 2012 08:05:04 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=49696</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/become-a-maker/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>My Rainbow Nursery</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/my-rainbow-nursery</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/my-rainbow-nursery#comments</comments>
+		<pubDate>Wed, 22 Aug 2012 16:23:54 +0000</pubDate>
+		<dc:creator>lee</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47831</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/my-rainbow-nursery/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lore</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/lore-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/lore-2#comments</comments>
+		<pubDate>Thu, 19 Jul 2012 08:37:49 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[education]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46943</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/lore-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lore</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/lore</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/lore#comments</comments>
+		<pubDate>Fri, 25 May 2012 08:25:49 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45532</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/lore/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wishbone.org</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/wishbone-org</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/wishbone-org#comments</comments>
+		<pubDate>Tue, 22 May 2012 08:28:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[orange]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45391</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/wishbone-org/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Discover uOttawa</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/discover-uottawa</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/discover-uottawa#comments</comments>
+		<pubDate>Fri, 17 Feb 2012 09:45:08 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[venue]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=42452</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/discover-uottawa/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Nike Better World</title>
+	<atom:link href="/inspiration/oversized/nike-better-world/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/oversized/nike-better-world</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Brent Shepherd</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/nike-better-world#comment-2889</link>
+		<dc:creator>Brent Shepherd</dc:creator>
+		<pubDate>Wed, 07 Dec 2011 07:38:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=24551#comment-2889</guid>
+		<description>A beautiful example of oversized graphics and parallax scrolling. 
+
+If you want to create a similar site, you can with WordPress (http://wordpress.org) and Five3 (http://five3.me).
+
+It would be great to get a Parallax category on here too.</description>
+		<content:encoded><![CDATA[<p>A beautiful example of oversized graphics and parallax scrolling. </p>
+<p>If you want to create a similar site, you can with WordPress (<a href="http://wordpress.org" rel="nofollow">http://wordpress.org</a>) and Five3 (<a href="http://five3.me" rel="nofollow">http://five3.me</a>).</p>
+<p>It would be great to get a Parallax category on here too.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

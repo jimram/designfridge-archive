@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: The Next Web</title>
+	<atom:link href="/uncategorized/the-next-web/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/uncategorized/the-next-web</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: John Maton</title>
+		<link>http://www.designfridge.co.uk/uncategorized/the-next-web#comment-4018</link>
+		<dc:creator>John Maton</dc:creator>
+		<pubDate>Wed, 02 Jan 2013 21:07:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50737#comment-4018</guid>
+		<description>Full of bugs. Horrible interface. Poor version for iPad. HTML5 totally detracts from content.
+
+Journalism is about the content, not about the paper it&#039;s written on. Do I really need the index on EVERY PAGE of a book that I am reading? Am I so moronic that I cannot navigate a book by myself? Why have all that distraction just because its a web page!!!
+
+So much time, effort and money spent on eye candy</description>
+		<content:encoded><![CDATA[<p>Full of bugs. Horrible interface. Poor version for iPad. HTML5 totally detracts from content.</p>
+<p>Journalism is about the content, not about the paper it&#8217;s written on. Do I really need the index on EVERY PAGE of a book that I am reading? Am I so moronic that I cannot navigate a book by myself? Why have all that distraction just because its a web page!!!</p>
+<p>So much time, effort and money spent on eye candy</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

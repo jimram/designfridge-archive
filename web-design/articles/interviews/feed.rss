@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; Interviews</title>
+	<atom:link href="/web-design/articles/interviews/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Interview with James Yorke an online Marketeer @ Become Known</title>
+		<link>http://www.designfridge.co.uk/articles/interviews/james-yorke-online-marketeer</link>
+		<comments>http://www.designfridge.co.uk/articles/interviews/james-yorke-online-marketeer#comments</comments>
+		<pubDate>Tue, 13 Apr 2010 00:16:29 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Interviews]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=13243</guid>
+		<description><![CDATA[<p>Intro: James Yorke has been working in the industry for 3 years, working for companies such as Red Bullet before finally starting his own company Become Known in March 2009.
+Design Fridge: &#8220;So you&#8217;ve just completed the first year for Become Known, how has it gone?&#8221;
+James Yorke: &#8220;It’s been tough but going really well. Starting a business</p>]]></description>
+			<content:encoded><![CDATA[<p>Intro: James Yorke has been working in the industry for 3 years, working for companies such as Red Bullet before finally starting his own company Become Known in March 2009.
+Design Fridge: &#8220;So you&#8217;ve just completed the first year for Become Known, how has it gone?&#8221;
+James Yorke: &#8220;It’s been tough but going really well. Starting a business</p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/articles/interviews/james-yorke-online-marketeer/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; photographic</title>
+	<atom:link href="/web-design-inspiration/photographic/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>BRUT Magazine</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/brut-magazine</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/brut-magazine#comments</comments>
+		<pubDate>Thu, 20 Mar 2014 11:06:24 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[magazine]]></category>
+		<category><![CDATA[photographic]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67854</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/brut-magazine/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Montere</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/montere</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/montere#comments</comments>
+		<pubDate>Thu, 27 Feb 2014 11:17:21 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[photographic]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67161</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.montere.it/"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/montere/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Paul Latham Design</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/paul-latham-design</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/paul-latham-design#comments</comments>
+		<pubDate>Thu, 30 Jan 2014 11:07:22 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[interiors]]></category>
+		<category><![CDATA[photographic]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66298</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/paul-latham-design/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

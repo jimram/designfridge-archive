@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; porfolio</title>
+	<atom:link href="/web-design-inspiration/porfolio/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Robert Vinluan</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/robert-vinluan</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/robert-vinluan#comments</comments>
+		<pubDate>Tue, 14 Jan 2014 12:49:53 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[porfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65650</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/robert-vinluan/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Roy Barber</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/roy-barber</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/roy-barber#comments</comments>
+		<pubDate>Tue, 19 Mar 2013 20:01:45 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[porfolio]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55886</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/roy-barber/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Francesco Bertelli</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/francesco-bertelli</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/francesco-bertelli#comments</comments>
+		<pubDate>Tue, 08 Mar 2011 23:12:13 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[Web Design Inspiration]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[porfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=26859</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/francesco-bertelli/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New To York &#8211; Tyler Thompson</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/new-to-york-tyler-thompson</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/new-to-york-tyler-thompson#comments</comments>
+		<pubDate>Tue, 13 Oct 2009 21:18:02 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[3col]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[porfolio]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=7604</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/new-to-york-tyler-thompson/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jamie Gilman</title>
+		<link>http://www.designfridge.co.uk/inspiration/grunge/jamie-gilman</link>
+		<comments>http://www.designfridge.co.uk/inspiration/grunge/jamie-gilman#comments</comments>
+		<pubDate>Fri, 25 Sep 2009 14:31:07 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Grunge]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[porfolio]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=7323</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/grunge/jamie-gilman/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

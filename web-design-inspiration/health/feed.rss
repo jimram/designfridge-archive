@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; health</title>
+	<atom:link href="/web-design-inspiration/health/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>medl.io</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/medl-io</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/medl-io#comments</comments>
+		<pubDate>Wed, 05 Mar 2014 12:13:40 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[health]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67298</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/medl-io/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Smoking Lung</title>
+		<link>http://www.designfridge.co.uk/uncategorized/smoking-lung</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/smoking-lung#comments</comments>
+		<pubDate>Fri, 01 Nov 2013 10:38:40 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[Interactive]]></category>
+		<category><![CDATA[Textured]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[informative]]></category>
+		<category><![CDATA[interactive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63641</guid>
+		<description><![CDATA[Smoking Lung &#8211; Health Online.]]></description>
+			<content:encoded><![CDATA[<p><a href="https://www.health-on-line.co.uk/smoking-lung/">Smoking Lung &#8211; Health Online</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/smoking-lung/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rubis</title>
+		<link>http://www.designfridge.co.uk/uncategorized/rubis</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/rubis#comments</comments>
+		<pubDate>Fri, 28 Jun 2013 08:28:47 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[sport]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=59764</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/rubis/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Fitbit</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/fitbit-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/fitbit-2#comments</comments>
+		<pubDate>Tue, 22 Jan 2013 08:01:06 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=53817</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/fitbit-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>OAT Book</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/oat-book</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/oat-book#comments</comments>
+		<pubDate>Thu, 07 Jun 2012 08:19:20 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[health]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45911</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/oat-book/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Little Sparrow Tea</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/little-sparrow-tea</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/little-sparrow-tea#comments</comments>
+		<pubDate>Mon, 20 Feb 2012 08:58:15 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[health]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=42538</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/little-sparrow-tea/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Yes Nurse</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/yes-nurse</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/yes-nurse#comments</comments>
+		<pubDate>Fri, 18 Nov 2011 10:56:57 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[ecom]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[health]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=39211</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/yes-nurse/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GoodRx</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/goodrx</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/goodrx#comments</comments>
+		<pubDate>Tue, 08 Nov 2011 09:13:49 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[yellow]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=38826</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/goodrx/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fruita Blanch</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/fruita-blanch</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/fruita-blanch#comments</comments>
+		<pubDate>Thu, 11 Aug 2011 07:42:21 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[health]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=35456</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/fruita-blanch/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Small Helpings</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/small-helpings</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/small-helpings#comments</comments>
+		<pubDate>Tue, 24 May 2011 08:12:10 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[orange]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=30833</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/small-helpings/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fitbit</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/fitbit</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/fitbit#comments</comments>
+		<pubDate>Wed, 18 May 2011 07:56:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=31218</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/fitbit/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vitality City</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/vitality-city</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/vitality-city#comments</comments>
+		<pubDate>Tue, 19 Apr 2011 08:07:19 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[cream]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[health]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=29136</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/vitality-city/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

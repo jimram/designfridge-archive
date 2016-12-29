@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; entertainment</title>
+	<atom:link href="/web-design-inspiration/entertainment/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Maze</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/maze</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/maze#comments</comments>
+		<pubDate>Wed, 17 Aug 2011 10:31:16 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[entertainment]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=35709</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/maze/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tobias Persson</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/tobias-persson</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/tobias-persson#comments</comments>
+		<pubDate>Mon, 28 Mar 2011 07:43:46 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[entertainment]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=28892</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/tobias-persson/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bully</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/bully</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/bully#comments</comments>
+		<pubDate>Tue, 22 Mar 2011 09:02:28 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[entertainment]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=28562</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/bully/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Therefore I Am Rock</title>
+		<link>http://www.designfridge.co.uk/inspiration/grunge/therefore-i-am-rock</link>
+		<comments>http://www.designfridge.co.uk/inspiration/grunge/therefore-i-am-rock#comments</comments>
+		<pubDate>Tue, 26 Oct 2010 07:41:00 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Grunge]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[entertainment]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=21803</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/grunge/therefore-i-am-rock/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Segway Adventure</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/segway-adventure</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/segway-adventure#comments</comments>
+		<pubDate>Tue, 21 Sep 2010 08:12:49 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[entertainment]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[wood]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/textured/segway-adventure</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/segway-adventure/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Brooklyn Circus</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/the-brooklyn-circus</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/the-brooklyn-circus#comments</comments>
+		<pubDate>Wed, 30 Jun 2010 07:37:34 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[brown]]></category>
+		<category><![CDATA[entertainment]]></category>
+		<category><![CDATA[paper]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/textured/the-brooklyn-circus</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/the-brooklyn-circus/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

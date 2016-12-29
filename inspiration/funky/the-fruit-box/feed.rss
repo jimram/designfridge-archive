@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: The Fruit Box</title>
+	<atom:link href="/inspiration/funky/the-fruit-box/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/funky/the-fruit-box</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Andy Shield</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/the-fruit-box#comment-27</link>
+		<dc:creator>Andy Shield</dc:creator>
+		<pubDate>Fri, 10 Apr 2009 14:51:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=1998#comment-27</guid>
+		<description>Nice vibrant identity - refreshing. I won&#039;t read all that copy though.</description>
+		<content:encoded><![CDATA[<p>Nice vibrant identity &#8211; refreshing. I won&#8217;t read all that copy though.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

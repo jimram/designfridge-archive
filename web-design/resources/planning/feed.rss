@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; Planning</title>
+	<atom:link href="/web-design/resources/planning/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Onword  &#8211; aims to bring beautiful text editing to the browser</title>
+		<link>http://www.designfridge.co.uk/resources/planning/onword-aims-to-bring-beautiful-text-editing-to-the-browser</link>
+		<comments>http://www.designfridge.co.uk/resources/planning/onword-aims-to-bring-beautiful-text-editing-to-the-browser#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 09:40:19 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51053</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/planning/onword-aims-to-bring-beautiful-text-editing-to-the-browser/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blogmate &#8211; Build Your Own Personal Archive</title>
+		<link>http://www.designfridge.co.uk/resources/blogmate</link>
+		<comments>http://www.designfridge.co.uk/resources/blogmate#comments</comments>
+		<pubDate>Thu, 01 Nov 2012 09:20:41 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+		<category><![CDATA[Web Design Resources]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50719</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/blogmate/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fluid UI a browser based app for wireframing</title>
+		<link>http://www.designfridge.co.uk/resources/fluid-ui-a-browser-based-app-for-wireframing</link>
+		<comments>http://www.designfridge.co.uk/resources/fluid-ui-a-browser-based-app-for-wireframing#comments</comments>
+		<pubDate>Thu, 19 Jul 2012 23:13:45 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+		<category><![CDATA[Web Design Resources]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46995</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/fluid-ui-a-browser-based-app-for-wireframing/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apollo Project Management Software</title>
+		<link>http://www.designfridge.co.uk/resources/planning/apollo-project-management-software</link>
+		<comments>http://www.designfridge.co.uk/resources/planning/apollo-project-management-software#comments</comments>
+		<pubDate>Tue, 07 Jun 2011 20:04:14 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=32287</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/planning/apollo-project-management-software/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Solo &#8211; Project management tool for freelancers</title>
+		<link>http://www.designfridge.co.uk/resources/solo</link>
+		<comments>http://www.designfridge.co.uk/resources/solo#comments</comments>
+		<pubDate>Fri, 04 Mar 2011 17:00:38 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Planning]]></category>
+		<category><![CDATA[Web Design Resources]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=27531</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/solo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>9 Common Usability Mistakes In Web Design</title>
+		<link>http://www.designfridge.co.uk/resources/planning/9-common-usability-mistakes-in-web-design</link>
+		<comments>http://www.designfridge.co.uk/resources/planning/9-common-usability-mistakes-in-web-design#comments</comments>
+		<pubDate>Wed, 28 Apr 2010 18:05:31 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=14070</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/planning/9-common-usability-mistakes-in-web-design/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Designing For A Hierarchy Of Needs</title>
+		<link>http://www.designfridge.co.uk/resources/planning/designing-for-a-hierarchy-of-needs</link>
+		<comments>http://www.designfridge.co.uk/resources/planning/designing-for-a-hierarchy-of-needs#comments</comments>
+		<pubDate>Mon, 26 Apr 2010 15:07:24 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=13983</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/planning/designing-for-a-hierarchy-of-needs/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Doing More With Less Time</title>
+		<link>http://www.designfridge.co.uk/resources/planning/doing-more-with-less-time</link>
+		<comments>http://www.designfridge.co.uk/resources/planning/doing-more-with-less-time#comments</comments>
+		<pubDate>Mon, 26 Apr 2010 08:33:00 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=13935</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/planning/doing-more-with-less-time/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3 Golden Rules of Site Redesigns</title>
+		<link>http://www.designfridge.co.uk/resources/planning/3-golden-rules-of-site-redesigns</link>
+		<comments>http://www.designfridge.co.uk/resources/planning/3-golden-rules-of-site-redesigns#comments</comments>
+		<pubDate>Tue, 20 Apr 2010 18:46:19 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=13623</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/planning/3-golden-rules-of-site-redesigns/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 Can’t-Miss Usability Tips for Mobile Website Designs</title>
+		<link>http://www.designfridge.co.uk/resources/planning/5-can%e2%80%99t-miss-usability-tips-for-mobile-website-designs</link>
+		<comments>http://www.designfridge.co.uk/resources/planning/5-can%e2%80%99t-miss-usability-tips-for-mobile-website-designs#comments</comments>
+		<pubDate>Wed, 24 Mar 2010 11:25:48 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=12187</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/planning/5-can%e2%80%99t-miss-usability-tips-for-mobile-website-designs/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 Things to Consider when Writing for the Web</title>
+		<link>http://www.designfridge.co.uk/resources/planning/10-things-to-consider-when-writing-for-the-web</link>
+		<comments>http://www.designfridge.co.uk/resources/planning/10-things-to-consider-when-writing-for-the-web#comments</comments>
+		<pubDate>Wed, 24 Mar 2010 10:12:12 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=12167</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/planning/10-things-to-consider-when-writing-for-the-web/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What I learned about you through 4 redesigns</title>
+		<link>http://www.designfridge.co.uk/resources/planning/what-i-learned-about-you-through-4-redesigns</link>
+		<comments>http://www.designfridge.co.uk/resources/planning/what-i-learned-about-you-through-4-redesigns#comments</comments>
+		<pubDate>Wed, 24 Mar 2010 09:16:34 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Planning]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=12160</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/planning/what-i-learned-about-you-through-4-redesigns/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

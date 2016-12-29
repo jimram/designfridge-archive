@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; software</title>
+	<atom:link href="/web-design-inspiration/software/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Structo</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/structo</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/structo#comments</comments>
+		<pubDate>Tue, 27 Jul 2010 07:55:42 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/vector/structo</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/structo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Basecamp</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/basecamp</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/basecamp#comments</comments>
+		<pubDate>Thu, 15 Jul 2010 08:10:58 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/web-20/basecamp</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/basecamp/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Drupal Works</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/drupal-works</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/drupal-works#comments</comments>
+		<pubDate>Thu, 01 Jul 2010 07:54:15 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/web-20/drupal-works</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/drupal-works/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rails.mx</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/rails-mx</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/rails-mx#comments</comments>
+		<pubDate>Wed, 23 Jun 2010 18:28:50 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/web-20/rails-mx</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/rails-mx/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Extendmac</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/extendmac</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/extendmac#comments</comments>
+		<pubDate>Thu, 10 Jun 2010 07:42:50 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/web-20/extendmac</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/extendmac/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Zine Scripts</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/zine-scripts</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/zine-scripts#comments</comments>
+		<pubDate>Wed, 09 Jun 2010 20:09:15 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/oversized/zine-scripts</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/zine-scripts/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Joyent</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/joyent</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/joyent#comments</comments>
+		<pubDate>Tue, 25 May 2010 07:24:37 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/clean/joyent</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/joyent/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>myEdu</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/myedu</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/myedu#comments</comments>
+		<pubDate>Thu, 15 Apr 2010 07:54:08 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=13442</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p><a href="/web-design/wp-content/uploads/2010/04/my.png"><img class="alignnone size-full wp-image-13443" title="my" src="/web-design/wp-content/uploads/2010/04/my.png" alt="" width="300" height="200" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/myedu/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>xxico</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/xxico</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/xxico#comments</comments>
+		<pubDate>Thu, 01 Apr 2010 07:42:45 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[yellow]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=12704</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p><a href="/web-design/wp-content/uploads/2010/04/xxc.jpg"><img class="alignnone size-full wp-image-12705" title="xxc" src="/web-design/wp-content/uploads/2010/04/xxc.jpg" alt="" width="300" height="200" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/xxico/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Media Core</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/media-core</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/media-core#comments</comments>
+		<pubDate>Tue, 19 Jan 2010 01:47:41 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=9728</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/media-core/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jolicloud</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/jolicloud-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/jolicloud-2#comments</comments>
+		<pubDate>Thu, 07 Jan 2010 00:50:49 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=9456</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/jolicloud-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>djay</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/djay</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/djay#comments</comments>
+		<pubDate>Thu, 07 Jan 2010 00:21:17 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[yellow]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=9420</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/djay/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; app</title>
+	<atom:link href="/web-design-inspiration/app/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Tact by Tactile</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/tact-by-tactile</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/tact-by-tactile#comments</comments>
+		<pubDate>Fri, 28 Mar 2014 17:22:38 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[communications]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68149</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/tact-by-tactile/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Memoir App</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/memoir-app</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/memoir-app#comments</comments>
+		<pubDate>Fri, 28 Mar 2014 17:22:19 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[product]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68147</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/memoir-app/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FLIGHT</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/flight</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/flight#comments</comments>
+		<pubDate>Fri, 14 Mar 2014 11:02:03 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67612</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/flight/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Space Box</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/space-box-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/space-box-2#comments</comments>
+		<pubDate>Wed, 05 Mar 2014 12:13:54 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67300</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/space-box-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>medl.io</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/medl-io</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/medl-io#comments</comments>
+		<pubDate>Wed, 05 Mar 2014 12:13:40 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[health]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67298</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/medl-io/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PayPal</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/paypal</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/paypal#comments</comments>
+		<pubDate>Fri, 21 Feb 2014 09:24:46 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66993</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/paypal/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tictail</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/tictail</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/tictail#comments</comments>
+		<pubDate>Wed, 19 Feb 2014 10:50:09 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[ecom]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66910</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/tictail/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spendee</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/spendee-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/spendee-2#comments</comments>
+		<pubDate>Thu, 13 Feb 2014 11:49:29 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66732</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/spendee-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pacemaker</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/pacemaker</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/pacemaker#comments</comments>
+		<pubDate>Tue, 04 Feb 2014 10:23:39 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66444</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/pacemaker/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stop Breathe &amp; Think</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/stop-breathe-think</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/stop-breathe-think#comments</comments>
+		<pubDate>Mon, 03 Feb 2014 11:35:24 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[well being]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66408</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/stop-breathe-think/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apprenda</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/apprenda</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/apprenda#comments</comments>
+		<pubDate>Wed, 29 Jan 2014 11:20:46 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[sales]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66242</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/apprenda/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trippeo</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/trippeo</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/trippeo#comments</comments>
+		<pubDate>Tue, 28 Jan 2014 11:59:08 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[finance]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66200</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/trippeo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

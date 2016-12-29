@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; ezine</title>
+	<atom:link href="/web-design-inspiration/ezine/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>&#8220;Know The Ledge&#8221; &#8211; Childish Gambino</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/know-the-ledge-childish-gambino</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/know-the-ledge-childish-gambino#comments</comments>
+		<pubDate>Tue, 14 Jan 2014 12:36:48 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[article]]></category>
+		<category><![CDATA[ezine]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65655</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/know-the-ledge-childish-gambino/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>De Correspondent</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/de-correspondent</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/de-correspondent#comments</comments>
+		<pubDate>Mon, 13 Jan 2014 11:09:58 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65579</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/de-correspondent/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Newsweek</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/newsweek</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/newsweek#comments</comments>
+		<pubDate>Thu, 23 May 2013 07:04:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58657</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/newsweek/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Esquire</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/esquire-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/esquire-2#comments</comments>
+		<pubDate>Thu, 23 May 2013 07:01:18 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58650</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/esquire-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Monocle</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/monocle</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/monocle#comments</comments>
+		<pubDate>Mon, 11 Feb 2013 12:50:05 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=54713</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/monocle/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Chalk Boardmag</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/the-chalk-boardmag</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/the-chalk-boardmag#comments</comments>
+		<pubDate>Wed, 12 Dec 2012 09:18:41 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52372</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/the-chalk-boardmag/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Codex mag</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/codex-mag</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/codex-mag#comments</comments>
+		<pubDate>Fri, 30 Nov 2012 09:43:22 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[ezine]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51952</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/codex-mag/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ShopTalk</title>
+		<link>http://www.designfridge.co.uk/uncategorized/shoptalk</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/shoptalk#comments</comments>
+		<pubDate>Thu, 22 Nov 2012 09:14:01 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[orange]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51589</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/shoptalk/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Women And Tech</title>
+		<link>http://www.designfridge.co.uk/uncategorized/women-and-tech</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/women-and-tech#comments</comments>
+		<pubDate>Thu, 22 Nov 2012 09:13:22 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51618</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/women-and-tech/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Next Web</title>
+		<link>http://www.designfridge.co.uk/uncategorized/the-next-web</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/the-next-web#comments</comments>
+		<pubDate>Thu, 01 Nov 2012 09:15:37 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[orange]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50737</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/the-next-web/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>SOUP magazine</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/soup-magazine</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/soup-magazine#comments</comments>
+		<pubDate>Wed, 30 May 2012 07:52:05 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[brown]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45653</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/soup-magazine/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Eephus League Magazine</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/eephus-league-magazine</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/eephus-league-magazine#comments</comments>
+		<pubDate>Fri, 25 May 2012 08:27:07 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45535</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/eephus-league-magazine/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

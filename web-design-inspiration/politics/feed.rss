@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; politics</title>
+	<atom:link href="/web-design-inspiration/politics/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>The Dream is Now</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/the-dream-is-now</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/the-dream-is-now#comments</comments>
+		<pubDate>Wed, 23 Jan 2013 13:00:12 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=53884</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/the-dream-is-now/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two Sides</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/two-sides</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/two-sides#comments</comments>
+		<pubDate>Wed, 09 Nov 2011 23:59:13 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[social]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=38882</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/two-sides/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Americans Elect</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/americans-elect</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/americans-elect#comments</comments>
+		<pubDate>Tue, 13 Sep 2011 07:59:13 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[politics]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=36677</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/americans-elect/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Votizen</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/votizen</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/votizen#comments</comments>
+		<pubDate>Mon, 18 Apr 2011 08:02:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[politics]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=29746</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/votizen/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Open Government</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/open-government</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/open-government#comments</comments>
+		<pubDate>Thu, 24 Feb 2011 08:54:10 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[politics]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=27145</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/open-government/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Constitution Center</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/constitution-center</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/constitution-center#comments</comments>
+		<pubDate>Tue, 22 Feb 2011 09:03:03 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=27000</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/constitution-center/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Raise your vote</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/raise-your-vote</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/raise-your-vote#comments</comments>
+		<pubDate>Wed, 20 Oct 2010 08:00:59 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[politics]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=21546</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/raise-your-vote/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Participatory Politics</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/participatory-politics</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/participatory-politics#comments</comments>
+		<pubDate>Fri, 13 Aug 2010 07:38:14 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[corporate]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[politics]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/textured/participatory-politics</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/participatory-politics/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>You&#8217;re the youth</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/youre-the-youth</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/youre-the-youth#comments</comments>
+		<pubDate>Thu, 17 Jun 2010 07:44:59 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[paper]]></category>
+		<category><![CDATA[politics]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/textured/youre-the-youth</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/youre-the-youth/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Wake Up &#8211; Walkout</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/wake-up-walkout</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/wake-up-walkout#comments</comments>
+		<pubDate>Sun, 16 May 2010 11:10:47 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[politics]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/oversized/wake-up-walkout</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/wake-up-walkout/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Salt Lake County Clerk</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/salt-lake-county-clerk</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/salt-lake-county-clerk#comments</comments>
+		<pubDate>Wed, 05 May 2010 20:48:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[paper]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=14432</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/salt-lake-county-clerk/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Votetocracy</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/votetocracy-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/votetocracy-2#comments</comments>
+		<pubDate>Thu, 03 Sep 2009 08:57:06 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[wood]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=6694</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/votetocracy-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

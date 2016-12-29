@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; restaurant</title>
+	<atom:link href="/web-design-inspiration/restaurant/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Farmer&#8217;s Market Kitchen</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/farmers-market-kitchen</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/farmers-market-kitchen#comments</comments>
+		<pubDate>Tue, 17 Dec 2013 11:15:48 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[restaurant]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64969</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/farmers-market-kitchen/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Huxtaburger</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/huxtaburger</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/huxtaburger#comments</comments>
+		<pubDate>Fri, 13 Dec 2013 12:58:10 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[restaurant]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64857</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/huxtaburger/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Joe&#8217;s Garage</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/joes-garage</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/joes-garage#comments</comments>
+		<pubDate>Wed, 08 May 2013 23:12:49 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<category><![CDATA[venue]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58170</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/joes-garage/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cibo Calgary</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/cibo-calgary</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/cibo-calgary#comments</comments>
+		<pubDate>Tue, 29 Jan 2013 09:43:36 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[restaurant]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=54080</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/cibo-calgary/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Wagamama</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/wagamama</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/wagamama#comments</comments>
+		<pubDate>Fri, 14 Dec 2012 09:55:02 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52440</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/wagamama/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mercer Tavern</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/mercer-tavern-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/mercer-tavern-2#comments</comments>
+		<pubDate>Thu, 25 Oct 2012 20:00:31 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[restaurant]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50379</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/mercer-tavern-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Emporium pies</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/emporium-pies</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/emporium-pies#comments</comments>
+		<pubDate>Wed, 24 Oct 2012 20:01:35 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<category><![CDATA[white]]></category>
+		<category><![CDATA[yellow]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50363</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/emporium-pies/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Niedlov&#8217;s</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/niedlovs</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/niedlovs#comments</comments>
+		<pubDate>Fri, 12 Oct 2012 08:03:32 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[1col]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[restaurant]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=49732</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/niedlovs/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GRK fresh</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/grk-fresh</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/grk-fresh#comments</comments>
+		<pubDate>Mon, 01 Oct 2012 08:03:02 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=49255</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/grk-fresh/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Banger&#8217;s &#8211; Austin</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/bangers-austin</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/bangers-austin#comments</comments>
+		<pubDate>Mon, 01 Oct 2012 08:01:44 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[restaurant]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=49252</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/bangers-austin/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Ordinary</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/the-ordinary</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/the-ordinary#comments</comments>
+		<pubDate>Wed, 12 Sep 2012 23:07:18 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=48543</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/the-ordinary/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Deweys pizza</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/deweys-pizza</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/deweys-pizza#comments</comments>
+		<pubDate>Wed, 12 Sep 2012 22:41:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[restaurant]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=48516</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/deweys-pizza/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; responsive</title>
+	<atom:link href="/web-design-inspiration/responsive/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>TIME</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/time</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/time#comments</comments>
+		<pubDate>Fri, 07 Mar 2014 10:42:15 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67391</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/time/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sacha Greif</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/sacha-greif-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/sacha-greif-2#comments</comments>
+		<pubDate>Thu, 05 Sep 2013 10:45:12 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[orange]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=60794</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/sacha-greif-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Legwork Studio</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/legwork-studio-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/legwork-studio-2#comments</comments>
+		<pubDate>Mon, 10 Jun 2013 09:57:09 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[studio]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=59161</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/legwork-studio-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fieldwork</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/fieldwork-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/fieldwork-2#comments</comments>
+		<pubDate>Tue, 28 May 2013 08:43:26 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[studio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58802</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/fieldwork-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Enjoythis</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/enjoythis-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/enjoythis-2#comments</comments>
+		<pubDate>Thu, 23 May 2013 07:05:29 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58660</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/enjoythis-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vitra</title>
+		<link>http://www.designfridge.co.uk/uncategorized/vitra</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/vitra#comments</comments>
+		<pubDate>Mon, 29 Apr 2013 08:42:25 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[interiors]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57564</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/vitra/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wootten</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/wootten-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/wootten-2#comments</comments>
+		<pubDate>Mon, 15 Apr 2013 07:02:32 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[fashion]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57231</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/wootten-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Shaken.cc</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/shaken-cc</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/shaken-cc#comments</comments>
+		<pubDate>Fri, 12 Apr 2013 19:01:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[drink]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57088</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/shaken-cc/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Barrel</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/barrel</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/barrel#comments</comments>
+		<pubDate>Thu, 11 Apr 2013 19:02:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57073</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/barrel/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Martin Fletcher</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/personal-portfolio-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/personal-portfolio-2#comments</comments>
+		<pubDate>Fri, 05 Apr 2013 08:04:55 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[1col]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56678</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/personal-portfolio-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Format Festival</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/format-festival</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/format-festival#comments</comments>
+		<pubDate>Fri, 05 Apr 2013 07:59:56 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[purple]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56659</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/format-festival/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Prophets</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/prophets</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/prophets#comments</comments>
+		<pubDate>Thu, 04 Apr 2013 20:02:07 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56620</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/prophets/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

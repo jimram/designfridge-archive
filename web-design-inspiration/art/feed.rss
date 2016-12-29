@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; art</title>
+	<atom:link href="/web-design-inspiration/art/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>PCAH</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/pcah</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/pcah#comments</comments>
+		<pubDate>Mon, 07 Apr 2014 10:26:04 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[Community]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68318</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/pcah/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>artsy &#8211; 2013</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/artsy-2013</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/artsy-2013#comments</comments>
+		<pubDate>Wed, 22 Jan 2014 11:39:18 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[ecom]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65980</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/artsy-2013/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jake &amp; Dinos Chapman</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/jake-dinos-chapman</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/jake-dinos-chapman#comments</comments>
+		<pubDate>Thu, 07 Nov 2013 10:06:10 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63784</guid>
+		<description><![CDATA[Jake &#38; Dinos Chapman ? The Life and Works of Jake &#38; Dinos Chapman.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://jakeanddinoschapman.com/">Jake &amp; Dinos Chapman ? The Life and Works of Jake &amp; Dinos Chapman</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/jake-dinos-chapman/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jacksonville Art Walk</title>
+		<link>http://www.designfridge.co.uk/inspiration/grunge/jacksonville-art-walk</link>
+		<comments>http://www.designfridge.co.uk/inspiration/grunge/jacksonville-art-walk#comments</comments>
+		<pubDate>Mon, 04 Mar 2013 10:54:26 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Grunge]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[social]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=55499</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/grunge/jacksonville-art-walk/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Semi-Permanent</title>
+		<link>http://www.designfridge.co.uk/uncategorized/semi-permanent</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/semi-permanent#comments</comments>
+		<pubDate>Tue, 29 Jan 2013 09:46:35 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=54084</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/semi-permanent/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Priscilla Martins</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/priscilla-martins</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/priscilla-martins#comments</comments>
+		<pubDate>Mon, 20 Aug 2012 10:35:04 +0000</pubDate>
+		<dc:creator>lee</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47749</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/priscilla-martins/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DMIG 5</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/dmig-5</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/dmig-5#comments</comments>
+		<pubDate>Sat, 11 Aug 2012 17:38:22 +0000</pubDate>
+		<dc:creator>lee</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[design]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47538</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/dmig-5/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>NeonMob</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/neonmob</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/neonmob#comments</comments>
+		<pubDate>Thu, 28 Jun 2012 09:01:08 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[purple]]></category>
+		<category><![CDATA[social]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46452</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/neonmob/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mint Museum</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/mint-museum</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/mint-museum#comments</comments>
+		<pubDate>Wed, 13 Jun 2012 08:57:33 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[venue]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=46035</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/mint-museum/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Surface View</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/surface-view-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/surface-view-2#comments</comments>
+		<pubDate>Tue, 29 May 2012 08:14:21 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[ecom]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=45603</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/surface-view-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Atelier</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/atelier</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/atelier#comments</comments>
+		<pubDate>Fri, 27 Apr 2012 09:16:38 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[orange]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44727</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/atelier/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>It&#8217;s numbered</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/its-numbered</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/its-numbered#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 08:33:55 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=43846</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/its-numbered/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; grey</title>
+	<atom:link href="/web-design-inspiration/grey/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Updatey</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/updatey</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/updatey#comments</comments>
+		<pubDate>Wed, 27 Nov 2013 10:23:26 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64408</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/updatey/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>PRSM</title>
+		<link>http://www.designfridge.co.uk/uncategorized/prsm</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/prsm#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 12:00:29 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[social]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=61550</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/prsm/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PSD.rb</title>
+		<link>http://www.designfridge.co.uk/uncategorized/psd-rb</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/psd-rb#comments</comments>
+		<pubDate>Thu, 05 Sep 2013 10:46:20 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[tool]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=60783</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/psd-rb/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Not Perfect</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/not-perfect</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/not-perfect#comments</comments>
+		<pubDate>Thu, 23 May 2013 07:03:22 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58654</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/not-perfect/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lumo</title>
+		<link>http://www.designfridge.co.uk/uncategorized/lumo</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/lumo#comments</comments>
+		<pubDate>Wed, 15 May 2013 09:32:40 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58266</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/lumo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jeff Broderick</title>
+		<link>http://www.designfridge.co.uk/uncategorized/jeff-broderick-2</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/jeff-broderick-2#comments</comments>
+		<pubDate>Wed, 15 May 2013 09:22:06 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58391</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/jeff-broderick-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Here Lives Amanda</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/here-lives-amanda</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/here-lives-amanda#comments</comments>
+		<pubDate>Fri, 10 May 2013 08:54:13 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58227</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/here-lives-amanda/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Brault &amp; Barnes</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/brault-barnes</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/brault-barnes#comments</comments>
+		<pubDate>Wed, 08 May 2013 23:14:38 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[studio]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58173</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/brault-barnes/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Studio Mister</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/studio-mister</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/studio-mister#comments</comments>
+		<pubDate>Thu, 02 May 2013 09:55:11 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57910</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/studio-mister/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Taasky</title>
+		<link>http://www.designfridge.co.uk/uncategorized/taasky</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/taasky#comments</comments>
+		<pubDate>Mon, 29 Apr 2013 08:49:30 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57530</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/taasky/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>McQuade</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/mcquade</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/mcquade#comments</comments>
+		<pubDate>Tue, 23 Apr 2013 08:36:22 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[studio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57560</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/mcquade/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Webflow</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/webflow</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/webflow#comments</comments>
+		<pubDate>Mon, 22 Apr 2013 09:28:57 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[tool]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=57509</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/webflow/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

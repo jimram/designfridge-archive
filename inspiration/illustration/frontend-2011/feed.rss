@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: FRONTEND 2011</title>
+	<atom:link href="/inspiration/illustration/frontend-2011/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/illustration/frontend-2011</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Hjortur Scheving</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/frontend-2011#comment-2426</link>
+		<dc:creator>Hjortur Scheving</dc:creator>
+		<pubDate>Fri, 10 Jun 2011 15:06:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=32439#comment-2426</guid>
+		<description>Just wanted to let people know this is a responsive design so it changes according to the device and screen resolution you have. This one looks best on a big screen, then you get the most details.</description>
+		<content:encoded><![CDATA[<p>Just wanted to let people know this is a responsive design so it changes according to the device and screen resolution you have. This one looks best on a big screen, then you get the most details.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

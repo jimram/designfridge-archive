@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Postable</title>
+	<atom:link href="/inspiration/textured/postable/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/textured/postable</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Mark</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/postable#comment-3850</link>
+		<dc:creator>Mark</dc:creator>
+		<pubDate>Mon, 03 Dec 2012 13:04:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=42902#comment-3850</guid>
+		<description>Does the postable.com website use a template? Where can I find it?</description>
+		<content:encoded><![CDATA[<p>Does the postable.com website use a template? Where can I find it?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

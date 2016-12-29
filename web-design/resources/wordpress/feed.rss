@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; Wordpress</title>
+	<atom:link href="/web-design/resources/wordpress/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Whiteboard Framework for WordPress</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/whiteboard-framework-for-wordpress</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/whiteboard-framework-for-wordpress#comments</comments>
+		<pubDate>Thu, 06 Jan 2011 00:54:44 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=24653</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/whiteboard-framework-for-wordpress/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Ultimate WordPress Shopping/Ecommerce Toolbox (Plugins and Themes)</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/the-ultimate-wordpress-shoppingecommerce-toolbox-plugins-and-themes</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/the-ultimate-wordpress-shoppingecommerce-toolbox-plugins-and-themes#comments</comments>
+		<pubDate>Thu, 17 Jun 2010 23:39:15 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=16413</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/the-ultimate-wordpress-shoppingecommerce-toolbox-plugins-and-themes/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spectre &#8211; Free WordPress Theme</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/spectre-free-wordpress-theme</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/spectre-free-wordpress-theme#comments</comments>
+		<pubDate>Tue, 08 Jun 2010 00:51:38 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=15952</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/spectre-free-wordpress-theme/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to get rid of the wordpress PHP virus</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/how-to-get-rid-of-the-wordpress-php-virus</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/how-to-get-rid-of-the-wordpress-php-virus#comments</comments>
+		<pubDate>Tue, 01 Jun 2010 01:33:52 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=15660</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/how-to-get-rid-of-the-wordpress-php-virus/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress Report Error Plugin</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/wordpress-report-error-plugin</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/wordpress-report-error-plugin#comments</comments>
+		<pubDate>Tue, 01 Jun 2010 01:33:06 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=15657</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/wordpress-report-error-plugin/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress Plugin: WP System Health</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/wordpress-plugin-wp-system-health</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/wordpress-plugin-wp-system-health#comments</comments>
+		<pubDate>Thu, 13 May 2010 21:44:19 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=14996</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/wordpress-plugin-wp-system-health/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>My Ideal WordPress Framework</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/my-ideal-wordpress-framework</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/my-ideal-wordpress-framework#comments</comments>
+		<pubDate>Fri, 30 Apr 2010 17:31:04 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=14218</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/my-ideal-wordpress-framework/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>HOW TO: Secure Your WordPress Blog</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/how-to-secure-your-wordpress-blog</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/how-to-secure-your-wordpress-blog#comments</comments>
+		<pubDate>Wed, 28 Apr 2010 18:09:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=14125</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/how-to-secure-your-wordpress-blog/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>60 awesome new wordpress themes</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/60-awesome-new-wordpress-themes</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/60-awesome-new-wordpress-themes#comments</comments>
+		<pubDate>Tue, 20 Apr 2010 18:46:19 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=13626</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/60-awesome-new-wordpress-themes/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Display Timeago For WordPress If Less Than 24 Hours</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/display-timeago-for-wordpress-if-less-than-24-hours</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/display-timeago-for-wordpress-if-less-than-24-hours#comments</comments>
+		<pubDate>Wed, 14 Apr 2010 12:20:32 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=13403</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/display-timeago-for-wordpress-if-less-than-24-hours/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>8 useful code snippets to get started with WordPress 3.0</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/8-useful-code-snippets-to-get-started-with-wordpress-3-0</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/8-useful-code-snippets-to-get-started-with-wordpress-3-0#comments</comments>
+		<pubDate>Tue, 13 Apr 2010 00:33:23 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=13256</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/8-useful-code-snippets-to-get-started-with-wordpress-3-0/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Show Your Google Analytics Top Content in WordPress</title>
+		<link>http://www.designfridge.co.uk/resources/wordpress/show-your-google-analytics-top-content-in-wordpress</link>
+		<comments>http://www.designfridge.co.uk/resources/wordpress/show-your-google-analytics-top-content-in-wordpress#comments</comments>
+		<pubDate>Fri, 26 Mar 2010 00:40:06 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=12263</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/wordpress/show-your-google-analytics-top-content-in-wordpress/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

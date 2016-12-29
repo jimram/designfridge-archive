@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Bristol Street Art</title>
+	<atom:link href="/inspiration/grunge/bristol-street-art/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/grunge/bristol-street-art</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: Maria Sous</title>
+		<link>http://www.designfridge.co.uk/inspiration/grunge/bristol-street-art#comment-82</link>
+		<dc:creator>Maria Sous</dc:creator>
+		<pubDate>Mon, 01 Jun 2009 14:29:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=1929#comment-82</guid>
+		<description>I really like the interactive map feature that allows you to see the precise location of street art and graffiti pieces. Well done.</description>
+		<content:encoded><![CDATA[<p>I really like the interactive map feature that allows you to see the precise location of street art and graffiti pieces. Well done.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

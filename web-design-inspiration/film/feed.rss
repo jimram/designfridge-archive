@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; film</title>
+	<atom:link href="/web-design-inspiration/film/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>GRAFICS</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/grafics</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/grafics#comments</comments>
+		<pubDate>Wed, 05 Feb 2014 10:50:31 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[film]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66473</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/grafics/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>2013 &#8211; Letterboxd</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/2013-letterboxd</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/2013-letterboxd#comments</comments>
+		<pubDate>Wed, 08 Jan 2014 11:22:05 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[glossy]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65358</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/2013-letterboxd/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>VHX</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/vhx</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/vhx#comments</comments>
+		<pubDate>Thu, 28 Mar 2013 20:00:18 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[tv]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56427</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/vhx/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Letterboxd</title>
+		<link>http://www.designfridge.co.uk/uncategorized/letterboxd</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/letterboxd#comments</comments>
+		<pubDate>Wed, 02 Jan 2013 23:31:58 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[film]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52910</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/letterboxd/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rooftop Cinema</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/rooftop-cinema</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/rooftop-cinema#comments</comments>
+		<pubDate>Wed, 14 Nov 2012 09:37:21 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[venue]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=51261</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/rooftop-cinema/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Southtree.com</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/southtree-com</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/southtree-com#comments</comments>
+		<pubDate>Tue, 16 Oct 2012 08:03:27 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50049</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/southtree-com/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fueld Film</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/httpfueldfilms-com</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/httpfueldfilms-com#comments</comments>
+		<pubDate>Fri, 24 Aug 2012 10:08:47 +0000</pubDate>
+		<dc:creator>lee</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[studio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47911</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/httpfueldfilms-com/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Voyous films</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/voyous-films</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/voyous-films#comments</comments>
+		<pubDate>Sun, 18 Mar 2012 23:39:09 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[film]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=43493</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/voyous-films/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nabis film</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/nabis-film</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/nabis-film#comments</comments>
+		<pubDate>Wed, 25 Jan 2012 09:21:18 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=41533</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/nabis-film/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Anna Safroncik</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/anna-safroncik-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/anna-safroncik-2#comments</comments>
+		<pubDate>Mon, 09 Jan 2012 09:10:49 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[film]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=40877</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/anna-safroncik-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Edits Quarterly</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/edits-quarterly</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/edits-quarterly#comments</comments>
+		<pubDate>Wed, 07 Dec 2011 09:19:55 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[grey]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=39890</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/edits-quarterly/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dream Year</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/dream-year</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/dream-year#comments</comments>
+		<pubDate>Fri, 08 Jul 2011 08:16:17 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[green]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=33610</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/dream-year/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

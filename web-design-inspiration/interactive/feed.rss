@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; interactive</title>
+	<atom:link href="/web-design-inspiration/interactive/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>How Americans Die</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/how-americans-die</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/how-americans-die#comments</comments>
+		<pubDate>Wed, 23 Apr 2014 11:05:44 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[infograf]]></category>
+		<category><![CDATA[interactive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68720</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/how-americans-die/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>deru</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/deru</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/deru#comments</comments>
+		<pubDate>Fri, 28 Mar 2014 17:21:49 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[interactive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68145</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/deru/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Shift and Fort</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/shift-and-fort</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/shift-and-fort#comments</comments>
+		<pubDate>Tue, 25 Mar 2014 10:48:07 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[typeface]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68034</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/shift-and-fort/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Soleil Noir &#124; Dream on</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/soleil-noir-dream-on</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/soleil-noir-dream-on#comments</comments>
+		<pubDate>Tue, 11 Feb 2014 11:49:21 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[onepager]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66647</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/soleil-noir-dream-on/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dataveyes</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/dataveyes-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/dataveyes-2#comments</comments>
+		<pubDate>Thu, 06 Feb 2014 10:57:32 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[interactive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66513</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/dataveyes-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>THE SOURCE</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/the-source</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/the-source#comments</comments>
+		<pubDate>Thu, 30 Jan 2014 11:06:41 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66300</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/the-source/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Colorplan</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/colorplan</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/colorplan#comments</comments>
+		<pubDate>Mon, 27 Jan 2014 12:40:31 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[print]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66144</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/colorplan/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Robert Vinluan</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/robert-vinluan</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/robert-vinluan#comments</comments>
+		<pubDate>Tue, 14 Jan 2014 12:49:53 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[porfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65650</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/robert-vinluan/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>play dot to dot</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/play-dot-to-dot</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/play-dot-to-dot#comments</comments>
+		<pubDate>Fri, 10 Jan 2014 14:18:42 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[interactive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65453</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/play-dot-to-dot/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bartek Drozdz</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/bartek-drozdz</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/bartek-drozdz#comments</comments>
+		<pubDate>Thu, 19 Dec 2013 15:00:48 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65060</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/bartek-drozdz/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Edward O&#8217;Riordan</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/edward-oriordan</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/edward-oriordan#comments</comments>
+		<pubDate>Thu, 07 Nov 2013 10:04:16 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[interactive]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63786</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/edward-oriordan/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Smoking Lung</title>
+		<link>http://www.designfridge.co.uk/uncategorized/smoking-lung</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/smoking-lung#comments</comments>
+		<pubDate>Fri, 01 Nov 2013 10:38:40 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[Interactive]]></category>
+		<category><![CDATA[Textured]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[informative]]></category>
+		<category><![CDATA[interactive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=63641</guid>
+		<description><![CDATA[Smoking Lung &#8211; Health Online.]]></description>
+			<content:encoded><![CDATA[<p><a href="https://www.health-on-line.co.uk/smoking-lung/">Smoking Lung &#8211; Health Online</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/smoking-lung/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

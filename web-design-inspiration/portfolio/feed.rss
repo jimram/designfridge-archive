@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; portfolio</title>
+	<atom:link href="/web-design-inspiration/portfolio/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Degordian</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/degordian</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/degordian#comments</comments>
+		<pubDate>Mon, 07 Apr 2014 10:25:37 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[studio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68322</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p><span style="text-decoration: underline;"><br />
+</span></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/degordian/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>mmunion</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/mmunion</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/mmunion#comments</comments>
+		<pubDate>Fri, 28 Mar 2014 17:21:27 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68143</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/mmunion/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PRPL</title>
+		<link>http://www.designfridge.co.uk/inspiration/crafted/prpl</link>
+		<comments>http://www.designfridge.co.uk/inspiration/crafted/prpl#comments</comments>
+		<pubDate>Tue, 25 Mar 2014 10:47:33 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Crafted]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=68032</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/crafted/prpl/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Andy Chung</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/andy-chung-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/andy-chung-2#comments</comments>
+		<pubDate>Thu, 20 Mar 2014 11:06:01 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67850</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/andy-chung-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MASHVP</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/mashvp</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/mashvp#comments</comments>
+		<pubDate>Tue, 18 Mar 2014 12:03:13 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67752</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<p><a href="http://mashvp.com/"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/mashvp/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Arillo</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/arillo</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/arillo#comments</comments>
+		<pubDate>Mon, 17 Mar 2014 11:10:36 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67706</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/arillo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photomap</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/photomap</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/photomap#comments</comments>
+		<pubDate>Mon, 17 Mar 2014 11:10:27 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67704</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/photomap/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Flavor</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/flavor</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/flavor#comments</comments>
+		<pubDate>Mon, 17 Mar 2014 11:09:59 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67702</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/flavor/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kyle Conrad</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/kyle-conrad</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/kyle-conrad#comments</comments>
+		<pubDate>Fri, 14 Mar 2014 11:05:20 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67614</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/kyle-conrad/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Damien Weighill</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/damien-weighill</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/damien-weighill#comments</comments>
+		<pubDate>Thu, 13 Mar 2014 11:16:13 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67572</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/damien-weighill/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bacae</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/bacae</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/bacae#comments</comments>
+		<pubDate>Thu, 13 Mar 2014 11:15:43 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[studio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67575</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/bacae/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cody Roberts</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/cody-roberts</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/cody-roberts#comments</comments>
+		<pubDate>Tue, 11 Mar 2014 11:22:42 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=67482</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/cody-roberts/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

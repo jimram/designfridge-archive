@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; grid</title>
+	<atom:link href="/web-design-inspiration/grid/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Resident Advisor</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/resident-advisor</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/resident-advisor#comments</comments>
+		<pubDate>Mon, 27 Jan 2014 12:38:11 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=66142</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/resident-advisor/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MEIN</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/mein</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/mein#comments</comments>
+		<pubDate>Fri, 03 Jan 2014 11:57:21 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[agency]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65264</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/mein/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reducing the Obvious</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/reducing-the-obvious</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/reducing-the-obvious#comments</comments>
+		<pubDate>Thu, 02 Jan 2014 12:22:44 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65232</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/reducing-the-obvious/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jan Finnesand</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/jan-finnesand</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/jan-finnesand#comments</comments>
+		<pubDate>Fri, 20 Dec 2013 09:36:08 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65077</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/jan-finnesand/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Peggs &amp; son</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/peggs-son</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/peggs-son#comments</comments>
+		<pubDate>Tue, 03 Dec 2013 11:17:06 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[ecom]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64535</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/peggs-son/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Babel</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/babel</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/babel#comments</comments>
+		<pubDate>Mon, 02 Dec 2013 10:40:19 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64495</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/babel/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Names for Change</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/names-for-change</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/names-for-change#comments</comments>
+		<pubDate>Thu, 21 Nov 2013 10:29:58 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64225</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/names-for-change/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Canopy</title>
+		<link>http://www.designfridge.co.uk/uncategorized/canopy</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/canopy#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 07:05:29 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[fashion]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=61664</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/canopy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sacha Greif</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/sacha-greif-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/sacha-greif-2#comments</comments>
+		<pubDate>Thu, 05 Sep 2013 10:45:12 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[orange]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[responsive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=60794</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/sacha-greif-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Alexander Stroemme</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/alexander-stroemme</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/alexander-stroemme#comments</comments>
+		<pubDate>Tue, 28 May 2013 08:34:17 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58792</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/alexander-stroemme/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Not Perfect</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/not-perfect</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/not-perfect#comments</comments>
+		<pubDate>Thu, 23 May 2013 07:03:22 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58654</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/not-perfect/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Esquire</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/esquire-2</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/esquire-2#comments</comments>
+		<pubDate>Thu, 23 May 2013 07:01:18 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[ezine]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58650</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/esquire-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

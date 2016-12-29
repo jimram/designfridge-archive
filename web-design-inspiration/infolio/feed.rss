@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; infolio</title>
+	<atom:link href="/web-design-inspiration/infolio/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Jeff Broderick</title>
+		<link>http://www.designfridge.co.uk/uncategorized/jeff-broderick-2</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/jeff-broderick-2#comments</comments>
+		<pubDate>Wed, 15 May 2013 09:22:06 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=58391</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/jeff-broderick-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Andrew McCarthy</title>
+		<link>http://www.designfridge.co.uk/uncategorized/andrew-mccarthy</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/andrew-mccarthy#comments</comments>
+		<pubDate>Tue, 26 Mar 2013 08:00:48 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[1col]]></category>
+		<category><![CDATA[infolio]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=56315</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/andrew-mccarthy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>JESSICA PAOLI</title>
+		<link>http://www.designfridge.co.uk/uncategorized/jessica-paoli</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/jessica-paoli#comments</comments>
+		<pubDate>Thu, 20 Dec 2012 19:17:28 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52663</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/jessica-paoli/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Henning Witzel</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/henning-witzel</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/henning-witzel#comments</comments>
+		<pubDate>Wed, 18 Apr 2012 08:38:18 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=44464</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/henning-witzel/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nicolas Pigelet</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/nicolas-pigelet</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/nicolas-pigelet#comments</comments>
+		<pubDate>Thu, 23 Feb 2012 09:09:20 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=42678</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/nicolas-pigelet/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Niinisto</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/niinisto</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/niinisto#comments</comments>
+		<pubDate>Tue, 03 Jan 2012 08:27:59 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[cream]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=40649</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/niinisto/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Strbk</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/strbk</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/strbk#comments</comments>
+		<pubDate>Thu, 15 Dec 2011 09:50:57 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=40170</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/strbk/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Slow Life</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/slow-life</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/slow-life#comments</comments>
+		<pubDate>Thu, 24 Nov 2011 09:16:47 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=39377</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/slow-life/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Eric Hoffman</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/eric-hoffman</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/eric-hoffman#comments</comments>
+		<pubDate>Fri, 04 Nov 2011 09:13:33 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[brown]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=38677</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/eric-hoffman/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Martin Gauer</title>
+		<link>http://www.designfridge.co.uk/inspiration/realism/martin-gauer</link>
+		<comments>http://www.designfridge.co.uk/inspiration/realism/martin-gauer#comments</comments>
+		<pubDate>Thu, 27 Oct 2011 09:51:52 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Realism]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=38366</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/realism/martin-gauer/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>El Julio</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/el-julio</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/el-julio#comments</comments>
+		<pubDate>Wed, 26 Oct 2011 07:37:57 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[infolio]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=38309</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/el-julio/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jon Phillips</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/jon-phillips</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/jon-phillips#comments</comments>
+		<pubDate>Wed, 10 Aug 2011 08:10:11 +0000</pubDate>
+		<dc:creator>jonphillips</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[grey]]></category>
+		<category><![CDATA[infolio]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=34297</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/jon-phillips/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

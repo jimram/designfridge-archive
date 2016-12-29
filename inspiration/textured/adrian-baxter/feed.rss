@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Adrian Baxter</title>
+	<atom:link href="/inspiration/textured/adrian-baxter/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/textured/adrian-baxter</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: sam</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/adrian-baxter#comment-2934</link>
+		<dc:creator>sam</dc:creator>
+		<pubDate>Tue, 13 Dec 2011 08:29:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=39944#comment-2934</guid>
+		<description>assume! #amazeballs</description>
+		<content:encoded><![CDATA[<p>assume! #amazeballs</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

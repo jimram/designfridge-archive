@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- <link rel="stylesheet" href="/web-design/wp-content/themes/df/style.css" type="text/css" media="screen" /> -->
+   <link rel="stylesheet" href="/web-design/wp-content/plugins/tdo-mini-forms/tdomf-style-form.css" type="text/css" media="screen" />
+   <script type="text/javascript">
+// <![CDATA[
+function endsWith(str,ends){
+   var startPos = str.length - ends.length;
+   if (startPos < 0) {
+      return false;
+   }
+   return (str.lastIndexOf(ends, startPos) == startPos);
+}
+function validateFile(id,msg) {
+  var e1 = document.getElementById(id);
+  if(e1 != null) {
+    var f = e1.value.toLowerCase();
+    if(f.length > 0) {
+                if(endsWith(f,".txt")) { return true; }
+                if(endsWith(f,".doc")) { return true; }
+                if(endsWith(f,".pdf")) { return true; }
+                if(endsWith(f,".jpg")) { return true; }
+                if(endsWith(f,".gif")) { return true; }
+                if(endsWith(f,".zip")) { return true; }
+          } else {
+      // Nothing to validate so okay
+      return true;
+    }
+    if(msg) {
+      alert("The file must be of type .txt .doc .pdf .jpg .gif .zip!");
+    }
+    return false;
+  }
+  // Nothing to validate so okay
+  return true;
+}
+function validateForm() {
+    if(!validateFile('uploadfile2_0'),false) {
+    var f = document.getElementById('uploadfile2_0').value;
+    alert( "File " + f + " has a bad extension and cannot be upload!" );
+    return false;
+  }
+    return true;
+}
+// ]]>
+</script>
+</head>
+<body>
+
+
+<form name="tdomf_upload_inline_form" id="tdomf_upload_inline_form" enctype="multipart/form-data" method="post" action="/web-design/wp-content/plugins/tdo-mini-forms/tdomf-upload-inline.php"  >
+    <input type='hidden' id='tdomf_upload_key_2_' name='tdomf_upload_key_2_' value='6105ea6e9b' >
+    <input type='hidden' name='MAX_FILE_SIZE' value='1048576' />
+  <input type='hidden' id='tdomf_form_id' name='tdomf_form_id' value='2' />
+  <input type='hidden' id='index' name='index' value='' />
+      <p><small>
+  Max File Size: 1 MB<br/>
+  Allowable File Types: .txt .doc .pdf .jpg .gif .zip<br/>
+  </small></p>
+            <label for='uploadfile2__0'>
+      Upload:       <input type='file' name='uploadfile2__0' id='uploadfile2__0' size='30' onChange="validateFile('uploadfile2_0',true);" /></label><br/>
+      <input type="submit" id="tdomf_upload_inline_submit_2_" name="tdomf_upload_inline_submit_2_" value="Upload Now!" />
+    </form>
+
+</body>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; directory</title>
+	<atom:link href="/web-design-inspiration/directory/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>ShelfLuv</title>
+		<link>http://www.designfridge.co.uk/inspiration/textured/shelfluv</link>
+		<comments>http://www.designfridge.co.uk/inspiration/textured/shelfluv#comments</comments>
+		<pubDate>Tue, 02 Nov 2010 08:39:55 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Textured]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[directory]]></category>
+		<category><![CDATA[wood]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=22088</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/textured/shelfluv/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Interhoods</title>
+		<link>http://www.designfridge.co.uk/inspiration/minimal/interhoods</link>
+		<comments>http://www.designfridge.co.uk/inspiration/minimal/interhoods#comments</comments>
+		<pubDate>Wed, 06 Oct 2010 07:59:53 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Minimal]]></category>
+		<category><![CDATA[directory]]></category>
+		<category><![CDATA[red]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=20909</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/minimal/interhoods/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>fsd.lincolnshire.gov.uk</title>
+		<link>http://www.designfridge.co.uk/inspiration/web-20/fsd-lincolnshire-gov-uk</link>
+		<comments>http://www.designfridge.co.uk/inspiration/web-20/fsd-lincolnshire-gov-uk#comments</comments>
+		<pubDate>Tue, 24 Nov 2009 20:13:31 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[3col]]></category>
+		<category><![CDATA[corporate]]></category>
+		<category><![CDATA[directory]]></category>
+		<category><![CDATA[green]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=8663</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/web-20/fsd-lincolnshire-gov-uk/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Haystack</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/haystack</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/haystack#comments</comments>
+		<pubDate>Sun, 01 Nov 2009 23:44:58 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[directory]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=8026</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/haystack/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Creative Hunt</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/creative-hunt</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/creative-hunt#comments</comments>
+		<pubDate>Wed, 14 Oct 2009 23:33:18 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[directory]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=7636</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/creative-hunt/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Killer Directory</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/killer-directory</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/killer-directory#comments</comments>
+		<pubDate>Fri, 24 Jul 2009 10:05:06 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[3col]]></category>
+		<category><![CDATA[directory]]></category>
+		<category><![CDATA[yellow]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=5666</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/killer-directory/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

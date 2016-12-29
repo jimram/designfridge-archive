@@ -1,0 +1,16 @@
+#logo:hover {background:none;}
+div#banie6 {background:#fff;margin:10px 10px 50px;padding:20px 20px 50px;width:940px; float:left;}
+div#banie6 p, div#banie6 h1, div#banie6 h2, div#banie6 h3 {text-indent:-9999px;}
+div#banie6 div.content {margin:0 auto; width:600px;}
+div#warning, div#broken, div#heep, div#sexy, div#sorted {background:#fff no-repeat center 0;width:630px;text-indent:-9999px;}
+div#warning {background-image:url(../images/ban-ie6/warning.gif); height:600px;margin-top:20px;}                 
+div#broken {background-image:url(../images/ban-ie6/oldandbroken.gif); height:450px;}
+div#heep {background-image:url(../images/ban-ie6/heep.gif); padding-top:110px;padding-bottom:10px;}
+div#sexy {background-image:url(../images/ban-ie6/sexy.gif); padding-top:110px; padding-bottom:100px;}  
+div#sexy img , div#heep img {border:1px solid #99CCEE; background:#A7D8EA; padding:9px; margin:0 0 0 10px;}
+div#sorted {background-image:url(../images/ban-ie6/sorted.gif); height:320px;}
+ul#upgrade {width:600px; margin-left:25px;}
+ul#upgrade li {float:left; margin:0 20px 0 0; width:128px;}
+ul#upgrade li a {width:128px; height:128px; padding-top:40px; display:block; overflow:hidden; font-size:0;}
+ul#upgrade li a {background:url(../images/ban-ie6/yellowArrow.gif) no-repeat center bottom;}
+ul#upgrade li a:hover {background:url(../images/ban-ie6/yellowArrow.gif) no-repeat center top;}

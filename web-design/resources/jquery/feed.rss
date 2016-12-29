@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; jQuery</title>
+	<atom:link href="/web-design/resources/jquery/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Flexslider: an awesome, fully responsive slider, jQuery plugin</title>
+		<link>http://www.designfridge.co.uk/resources/jquery/flexslider-an-awesome-fully-responsive-slider-jquery-plugin</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery/flexslider-an-awesome-fully-responsive-slider-jquery-plugin#comments</comments>
+		<pubDate>Mon, 15 Aug 2011 22:34:55 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=35621</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery/flexslider-an-awesome-fully-responsive-slider-jquery-plugin/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Craftyslide &#8211; A tiny jQuery slideshow plugin</title>
+		<link>http://www.designfridge.co.uk/resources/jquery/craftyslide-a-tiny-jquery-slideshow-plugin</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery/craftyslide-a-tiny-jquery-slideshow-plugin#comments</comments>
+		<pubDate>Sat, 02 Jul 2011 18:07:23 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=33360</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery/craftyslide-a-tiny-jquery-slideshow-plugin/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Simple Toggle with CSS &amp; jQuery</title>
+		<link>http://www.designfridge.co.uk/resources/simple-toggle-with-css-jquery</link>
+		<comments>http://www.designfridge.co.uk/resources/simple-toggle-with-css-jquery#comments</comments>
+		<pubDate>Tue, 17 May 2011 17:34:26 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+		<category><![CDATA[Web Design Resources]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=31230</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/simple-toggle-with-css-jquery/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>jQuery UI widget for contextual pagination &#8211; Sausage.js</title>
+		<link>http://www.designfridge.co.uk/resources/jquery/jquery-ui-widget-for-contextual-pagination-sausage-js</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery/jquery-ui-widget-for-contextual-pagination-sausage-js#comments</comments>
+		<pubDate>Thu, 31 Mar 2011 07:57:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=29028</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery/jquery-ui-widget-for-contextual-pagination-sausage-js/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>JQuery Nivo Slider by dev7studios</title>
+		<link>http://www.designfridge.co.uk/resources/jquery-nivo-slider-by-dev7studios</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery-nivo-slider-by-dev7studios#comments</comments>
+		<pubDate>Thu, 17 Mar 2011 13:42:56 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[jQuery]]></category>
+		<category><![CDATA[Web Design Resources]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=28268</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery-nivo-slider-by-dev7studios/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 jQuery plugins for better user interface</title>
+		<link>http://www.designfridge.co.uk/resources/jquery/10-jquery-plugins-for-better-user-interface</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery/10-jquery-plugins-for-better-user-interface#comments</comments>
+		<pubDate>Wed, 22 Dec 2010 08:44:33 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=24182</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery/10-jquery-plugins-for-better-user-interface/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Slide Down Box Menu with jQuery and CSS3</title>
+		<link>http://www.designfridge.co.uk/resources/jquery/slide-down-box-menu-with-jquery-and-css3</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery/slide-down-box-menu-with-jquery-and-css3#comments</comments>
+		<pubDate>Sat, 17 Jul 2010 12:02:57 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=17675</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery/slide-down-box-menu-with-jquery-and-css3/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sliding Labels Official Plugin Release</title>
+		<link>http://www.designfridge.co.uk/resources/jquery/sliding-labels-official-plugin-release</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery/sliding-labels-official-plugin-release#comments</comments>
+		<pubDate>Thu, 13 May 2010 21:55:26 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=15000</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery/sliding-labels-official-plugin-release/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How jQuery Beginners can Test and Improve their Code</title>
+		<link>http://www.designfridge.co.uk/resources/jquery/how-jquery-beginners-can-test-and-improve-their-code</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery/how-jquery-beginners-can-test-and-improve-their-code#comments</comments>
+		<pubDate>Wed, 12 May 2010 19:15:28 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=14904</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery/how-jquery-beginners-can-test-and-improve-their-code/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rocking and Rolling Rounded Menu with jQuery</title>
+		<link>http://www.designfridge.co.uk/resources/jquery/rocking-and-rolling-rounded-menu-with-jquery</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery/rocking-and-rolling-rounded-menu-with-jquery#comments</comments>
+		<pubDate>Thu, 06 May 2010 07:18:16 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=14467</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery/rocking-and-rolling-rounded-menu-with-jquery/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>40 Useful jQuery Techniques and Plugins</title>
+		<link>http://www.designfridge.co.uk/resources/jquery/40-useful-jquery-techniques-and-plugins</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery/40-useful-jquery-techniques-and-plugins#comments</comments>
+		<pubDate>Tue, 27 Apr 2010 22:13:01 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=14054</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery/40-useful-jquery-techniques-and-plugins/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Inline Modal Window with CSS and jQuery</title>
+		<link>http://www.designfridge.co.uk/resources/jquery/inline-modal-window-with-css-and-jquery</link>
+		<comments>http://www.designfridge.co.uk/resources/jquery/inline-modal-window-with-css-and-jquery#comments</comments>
+		<pubDate>Tue, 27 Apr 2010 08:13:32 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[jQuery]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=14022</guid>
+		<description><![CDATA[<p></p>]]></description>
+			<content:encoded><![CDATA[<p></p>]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/resources/jquery/inline-modal-window-with-css-and-jquery/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

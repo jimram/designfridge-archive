@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; game</title>
+	<atom:link href="/web-design-inspiration/game/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>play dot to dot</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/play-dot-to-dot</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/play-dot-to-dot#comments</comments>
+		<pubDate>Fri, 10 Jan 2014 14:18:42 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[interactive]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65453</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/play-dot-to-dot/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Google Santa Tracker</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/google-santa-tracker</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/google-santa-tracker#comments</comments>
+		<pubDate>Thu, 19 Dec 2013 10:57:02 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[game]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=65048</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/google-santa-tracker/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Connect Mania</title>
+		<link>http://www.designfridge.co.uk/inspiration/flat/connect-mania</link>
+		<comments>http://www.designfridge.co.uk/inspiration/flat/connect-mania#comments</comments>
+		<pubDate>Tue, 17 Dec 2013 11:19:22 +0000</pubDate>
+		<dc:creator>dan</dc:creator>
+				<category><![CDATA[Flat]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[game]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=64967</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/flat/connect-mania/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hatch</title>
+		<link>http://www.designfridge.co.uk/uncategorized/hatch</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/hatch#comments</comments>
+		<pubDate>Thu, 20 Dec 2012 19:18:12 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=52580</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/hatch/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Draw A Stickman</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/draw-a-stickman</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/draw-a-stickman#comments</comments>
+		<pubDate>Thu, 23 Aug 2012 11:22:10 +0000</pubDate>
+		<dc:creator>lee</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[game]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47854</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/draw-a-stickman/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Speed Texting</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/speed-texting</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/speed-texting#comments</comments>
+		<pubDate>Tue, 31 Jul 2012 08:31:11 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[1col]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[game]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=47232</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/speed-texting/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Foto Bout</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/foto-bout</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/foto-bout#comments</comments>
+		<pubDate>Wed, 28 Mar 2012 08:29:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[2col]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[orange]]></category>
+		<category><![CDATA[photography]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=43837</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/foto-bout/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pokki 1UP</title>
+		<link>http://www.designfridge.co.uk/uncategorized/pokki-1up</link>
+		<comments>http://www.designfridge.co.uk/uncategorized/pokki-1up#comments</comments>
+		<pubDate>Thu, 05 Jan 2012 08:53:27 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Grunge]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[game]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=40445</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/uncategorized/pokki-1up/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fruit Ninja</title>
+		<link>http://www.designfridge.co.uk/inspiration/funky/fruit-ninja</link>
+		<comments>http://www.designfridge.co.uk/inspiration/funky/fruit-ninja#comments</comments>
+		<pubDate>Mon, 07 Nov 2011 09:23:34 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Funky]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[multi]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=38727</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/funky/fruit-ninja/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kerning Game</title>
+		<link>http://www.designfridge.co.uk/inspiration/type-based/kerning-game</link>
+		<comments>http://www.designfridge.co.uk/inspiration/type-based/kerning-game#comments</comments>
+		<pubDate>Tue, 11 Oct 2011 07:45:27 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Type-based]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[purple]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=37901</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/type-based/kerning-game/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>BEES</title>
+		<link>http://www.designfridge.co.uk/inspiration/oversized/bees</link>
+		<comments>http://www.designfridge.co.uk/inspiration/oversized/bees#comments</comments>
+		<pubDate>Tue, 20 Sep 2011 08:11:39 +0000</pubDate>
+		<dc:creator>tdomf_53d0f</dc:creator>
+				<category><![CDATA[Oversized]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[glossy]]></category>
+		<category><![CDATA[yellow]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=36856</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/oversized/bees/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Finger Billiards</title>
+		<link>http://www.designfridge.co.uk/inspiration/vector/finger-billiards</link>
+		<comments>http://www.designfridge.co.uk/inspiration/vector/finger-billiards#comments</comments>
+		<pubDate>Thu, 14 Jul 2011 07:46:10 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Vector]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[game]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=33875</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/vector/finger-billiards/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

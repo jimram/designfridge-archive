@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Zig Moon</title>
+	<atom:link href="/inspiration/illustration/zig-moon/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk/inspiration/illustration/zig-moon</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Tue, 07 Jan 2014 16:41:12 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+	<item>
+		<title>By: zigmoon</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/zig-moon#comment-64</link>
+		<dc:creator>zigmoon</dc:creator>
+		<pubDate>Wed, 13 May 2009 15:58:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=826#comment-64</guid>
+		<description>thx, but Ihave update this month. And now this theme is free.</description>
+		<content:encoded><![CDATA[<p>thx, but Ihave update this month. And now this theme is free.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

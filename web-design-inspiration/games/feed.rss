@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Fridge &#187; games</title>
+	<atom:link href="/web-design-inspiration/games/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.designfridge.co.uk</link>
+	<description>Inspiration for Web Designers</description>
+	<lastBuildDate>Wed, 23 Apr 2014 11:05:53 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Polygon</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/polygon</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/polygon#comments</comments>
+		<pubDate>Mon, 29 Oct 2012 09:02:51 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[games]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=50554</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/polygon/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Alexandre Gomes</title>
+		<link>http://www.designfridge.co.uk/inspiration/realism/alexandre-gomes</link>
+		<comments>http://www.designfridge.co.uk/inspiration/realism/alexandre-gomes#comments</comments>
+		<pubDate>Tue, 13 Jul 2010 07:50:30 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Realism]]></category>
+		<category><![CDATA[fabric]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[green]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/inspiration/realism/alexandre-gomes</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/realism/alexandre-gomes/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Playstation</title>
+		<link>http://www.designfridge.co.uk/inspiration/clean/playstation</link>
+		<comments>http://www.designfridge.co.uk/inspiration/clean/playstation#comments</comments>
+		<pubDate>Wed, 03 Mar 2010 23:52:44 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[Clean]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[brand]]></category>
+		<category><![CDATA[games]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=11233</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/clean/playstation/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mochi Media</title>
+		<link>http://www.designfridge.co.uk/inspiration/illustration/mochi-media</link>
+		<comments>http://www.designfridge.co.uk/inspiration/illustration/mochi-media#comments</comments>
+		<pubDate>Wed, 05 Aug 2009 18:19:40 +0000</pubDate>
+		<dc:creator>Jim Ramsden</dc:creator>
+				<category><![CDATA[illustration]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[grid]]></category>
+
+		<guid isPermaLink="false">http://www.designfridge.co.uk/?p=5953</guid>
+		<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://www.designfridge.co.uk/inspiration/illustration/mochi-media/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
