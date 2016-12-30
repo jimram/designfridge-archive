@@ -173,3 +173,4 @@ div.content input:focus,div.content textarea:focus,#comments input:focus,#commen
 .listBox li h3 a,#resourcesList li h2 a{color:#1c2a34;display:block;text-decoration:none}#shareBox #share ul,#shareBox #submitLink form{padding:0 15px}
 #resourcesList,#membersList{float:left;margin:10px;width:650px}#resourcesList li,#membersList li{background:#fff;border:1px solid #a7d8ea;float:left;margin-bottom:20px;padding:5px;width:638px}
 #membersList li h3 span a,div.archives ul.car-list li span.car-yearmonth span{font-weight:400}div.archives div.car-container,legend{font-size:14px}
+#search, #navBtns, #footerLink + p, #footer .iconAdd {display: none;}
